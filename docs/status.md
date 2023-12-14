@@ -4,7 +4,7 @@ editLink: false
 
 # Completion Status
 
-> Translation of localizations is completed by **77.06%** (11.2K / 14.5K).
+> Translation of localizations is completed by **78.34%** (11.4K / 14.5K).
 
 <table width="100%">
 <tr><td width="12%">
@@ -326,7 +326,7 @@ editLink: false
 
 </td><td width="12%">
 
-[zh_TW&nbsp;❗](statuses/zh_TW.md)
+[zh_TW&nbsp;✔](statuses/zh_TW.md)
 
 </td></tr>
 </table>
