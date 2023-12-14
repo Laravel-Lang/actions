@@ -46,7 +46,10 @@
     },
     "config": {
         "allow-plugins": {
-            "php-http/discovery": true
+            "php-http/discovery": true,
+            "dragon-code/codestyler": true,
+            "ergebnis/composer-normalize": true,
+            "symfony/thanks": true
         },
         "preferred-install": "dist",
         "sort-packages": true
