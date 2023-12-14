@@ -1,19 +1,21 @@
 {
-    "name": "your/namespace",
-    "description": "Extended translations for Laravel Projects",
+    "name": "laravel-lang/actions",
+    "description": "Translation of buttons and other action elements",
     "license": "MIT",
     "type": "library",
     "keywords": [
-        "laravel",
-        "languages",
+        "actions",
+        "buttons",
         "lang",
-        "translations",
-        "messages"
+        "languages",
+        "laravel",
+        "translations"
     ],
     "authors": [
         {
             "name": "Andrey Helldar",
-            "email": "helldar@dragon-code.pro"
+            "email": "helldar@dragon-code.pro",
+            "homepage": "https://dragon-code.pro"
         },
         {
             "name": "Laravel Lang Team",
@@ -28,13 +30,13 @@
     "require-dev": {
         "laravel-lang/status-generator": "^2.3.1",
         "phpunit/phpunit": "^10.0",
-        "symfony/var-dumper": "^6.3"
+        "symfony/var-dumper": "^6.3 || ^7.0"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "YourNamespace\\Translations\\": "src/"
+            "LaravelLang\\Actions\\": "src/"
         }
     },
     "autoload-dev": {
@@ -52,7 +54,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "YourNamespace\\Translations\\ServiceProvider"
+                "LaravelLang\\Actions\\ServiceProvider"
             ]
         }
     }
