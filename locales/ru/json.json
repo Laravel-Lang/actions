@@ -73,7 +73,7 @@
     "Settings": "Настройки",
     "Show": "Показать",
     "Show :name": "Показать :name",
-    "Show All": "Show All",
+    "Show All": "Показать всё",
     "Solve": "Решить",
     "Submit": "Отправить",
     "Subscribe": "Подписаться",
@@ -90,6 +90,6 @@
     "Update :name": "Обновить :name",
     "User": "Пользователь",
     "View": "Просмотр",
-    "View :name": "View :name",
+    "View :name": "Посмотреть :name",
     "Yes": "Да"
 }
