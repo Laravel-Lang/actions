@@ -55,6 +55,12 @@ return [
     'no'              => 'No',
     'open'            => 'Open',
     'open_website'    => 'Open on the website',
+    'target_link'     => [
+        'self'   => 'Open in a current window',
+        'blank'  => 'Open in a new window',
+        'top'    => 'Open in the topmost frame',
+        'parent' => 'Open in a parent frame',
+    ],
     'preview'         => 'Preview',
     'price'           => 'Price',
     'restore'         => 'Restore',
