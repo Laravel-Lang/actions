@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 6
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,6 +41,42 @@ Export
 </td></tr>
 <tr><td width="50%">
 
+Open in a current window
+
+</td><td width="50%">
+
+Open in a current window
+
+</td></tr>
+<tr><td width="50%">
+
+Open in a new window
+
+</td><td width="50%">
+
+Open in a new window
+
+</td></tr>
+<tr><td width="50%">
+
+Open in a parent frame
+
+</td><td width="50%">
+
+Open in a parent frame
+
+</td></tr>
+<tr><td width="50%">
+
+Open in the topmost frame
+
+</td><td width="50%">
+
+Open in the topmost frame
+
+</td></tr>
+<tr><td width="50%">
+
 Tag
 
 </td><td width="50%">
@@ -56,7 +92,7 @@ Tag
 
 ### php
 
-##### Missing: 3
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -93,6 +129,42 @@ tag
 </td><td width="50%">
 
 Tag
+
+</td></tr>
+<tr><td width="50%">
+
+target_link.blank
+
+</td><td width="50%">
+
+Open in a new window
+
+</td></tr>
+<tr><td width="50%">
+
+target_link.parent
+
+</td><td width="50%">
+
+Open in a parent frame
+
+</td></tr>
+<tr><td width="50%">
+
+target_link.self
+
+</td><td width="50%">
+
+Open in a current window
+
+</td></tr>
+<tr><td width="50%">
+
+target_link.top
+
+</td><td width="50%">
+
+Open in the topmost frame
 
 </td></tr>
 </table>
