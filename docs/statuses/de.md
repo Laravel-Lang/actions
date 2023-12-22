@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 12
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,42 +32,6 @@ Export
 </td></tr>
 <tr><td width="50%">
 
-Open in a current window
-
-</td><td width="50%">
-
-Open in a current window
-
-</td></tr>
-<tr><td width="50%">
-
-Open in a new window
-
-</td><td width="50%">
-
-Open in a new window
-
-</td></tr>
-<tr><td width="50%">
-
-Open in a parent frame
-
-</td><td width="50%">
-
-Open in a parent frame
-
-</td></tr>
-<tr><td width="50%">
-
-Open in the topmost frame
-
-</td><td width="50%">
-
-Open in the topmost frame
-
-</td></tr>
-<tr><td width="50%">
-
 Update :name
 
 </td><td width="50%">
@@ -83,7 +47,7 @@ Update :name
 
 ### php
 
-##### Missing: 6
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -111,42 +75,6 @@ named.update
 </td><td width="50%">
 
 Update :name
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.blank
-
-</td><td width="50%">
-
-Open in a new window
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.parent
-
-</td><td width="50%">
-
-Open in a parent frame
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.self
-
-</td><td width="50%">
-
-Open in a current window
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.top
-
-</td><td width="50%">
-
-Open in the topmost frame
 
 </td></tr>
 </table>
