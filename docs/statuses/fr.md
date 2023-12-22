@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 18
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -66,42 +66,6 @@ Introduction
 Introduction
 
 </td></tr>
-<tr><td width="50%">
-
-Open in a current window
-
-</td><td width="50%">
-
-Open in a current window
-
-</td></tr>
-<tr><td width="50%">
-
-Open in a new window
-
-</td><td width="50%">
-
-Open in a new window
-
-</td></tr>
-<tr><td width="50%">
-
-Open in a parent frame
-
-</td><td width="50%">
-
-Open in a parent frame
-
-</td></tr>
-<tr><td width="50%">
-
-Open in the topmost frame
-
-</td><td width="50%">
-
-Open in the topmost frame
-
-</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -110,7 +74,7 @@ Open in the topmost frame
 
 ### php
 
-##### Missing: 9
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -165,42 +129,6 @@ introduction
 </td><td width="50%">
 
 Introduction
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.blank
-
-</td><td width="50%">
-
-Open in a new window
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.parent
-
-</td><td width="50%">
-
-Open in a parent frame
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.self
-
-</td><td width="50%">
-
-Open in a current window
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.top
-
-</td><td width="50%">
-
-Open in the topmost frame
 
 </td></tr>
 </table>
