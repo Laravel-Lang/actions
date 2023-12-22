@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 30
+##### All missed: 22
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,42 +86,6 @@ New :name
 </td></tr>
 <tr><td width="50%">
 
-Open in a current window
-
-</td><td width="50%">
-
-Open in a current window
-
-</td></tr>
-<tr><td width="50%">
-
-Open in a new window
-
-</td><td width="50%">
-
-Open in a new window
-
-</td></tr>
-<tr><td width="50%">
-
-Open in a parent frame
-
-</td><td width="50%">
-
-Open in a parent frame
-
-</td></tr>
-<tr><td width="50%">
-
-Open in the topmost frame
-
-</td><td width="50%">
-
-Open in the topmost frame
-
-</td></tr>
-<tr><td width="50%">
-
 Show
 
 </td><td width="50%">
@@ -164,7 +128,7 @@ Up
 
 ### php
 
-##### Missing: 15
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -255,42 +219,6 @@ switch
 </td><td width="50%">
 
 Switch
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.blank
-
-</td><td width="50%">
-
-Open in a new window
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.parent
-
-</td><td width="50%">
-
-Open in a parent frame
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.self
-
-</td><td width="50%">
-
-Open in a current window
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.top
-
-</td><td width="50%">
-
-Open in the topmost frame
 
 </td></tr>
 <tr><td width="50%">
