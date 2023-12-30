@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 194
+##### All missed: 92
 
 
 ### json
 
-##### Missing: 97
+##### Missing: 46
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,56 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Accept
-
-</td><td width="50%">
-
-Accept
-
-</td></tr>
-<tr><td width="50%">
-
-Action
-
-</td><td width="50%">
-
-Action
-
-</td></tr>
-<tr><td width="50%">
-
-Actions
-
-</td><td width="50%">
-
-Actions
-
-</td></tr>
-<tr><td width="50%">
-
-Add
-
-</td><td width="50%">
-
-Add
-
-</td></tr>
-<tr><td width="50%">
-
 Admin
 
 </td><td width="50%">
 
 Admin
-
-</td></tr>
-<tr><td width="50%">
-
-Agree
-
-</td><td width="50%">
-
-Agree
 
 </td></tr>
 <tr><td width="50%">
@@ -86,74 +41,11 @@ Archive
 </td></tr>
 <tr><td width="50%">
 
-Assign
-
-</td><td width="50%">
-
-Assign
-
-</td></tr>
-<tr><td width="50%">
-
-Attach
-
-</td><td width="50%">
-
-Attach
-
-</td></tr>
-<tr><td width="50%">
-
 Browse
 
 </td><td width="50%">
 
 Browse
-
-</td></tr>
-<tr><td width="50%">
-
-Cancel
-
-</td><td width="50%">
-
-Cancel
-
-</td></tr>
-<tr><td width="50%">
-
-Choose
-
-</td><td width="50%">
-
-Choose
-
-</td></tr>
-<tr><td width="50%">
-
-Choose :name
-
-</td><td width="50%">
-
-Choose :name
-
-</td></tr>
-<tr><td width="50%">
-
-Choose File
-
-</td><td width="50%">
-
-Choose File
-
-</td></tr>
-<tr><td width="50%">
-
-Choose Image
-
-</td><td width="50%">
-
-Choose Image
 
 </td></tr>
 <tr><td width="50%">
@@ -257,47 +149,11 @@ Disable
 </td></tr>
 <tr><td width="50%">
 
-Discard
-
-</td><td width="50%">
-
-Discard
-
-</td></tr>
-<tr><td width="50%">
-
-Done
-
-</td><td width="50%">
-
-Done
-
-</td></tr>
-<tr><td width="50%">
-
-Down
-
-</td><td width="50%">
-
-Down
-
-</td></tr>
-<tr><td width="50%">
-
 Duplicate
 
 </td><td width="50%">
 
 Duplicate
-
-</td></tr>
-<tr><td width="50%">
-
-Duplicate: name
-
-</td><td width="50%">
-
-Duplicate: name
 
 </td></tr>
 <tr><td width="50%">
@@ -329,33 +185,6 @@ Enable
 </td></tr>
 <tr><td width="50%">
 
-Expand
-
-</td><td width="50%">
-
-Expand
-
-</td></tr>
-<tr><td width="50%">
-
-Expand All
-
-</td><td width="50%">
-
-Expand All
-
-</td></tr>
-<tr><td width="50%">
-
-Explanation
-
-</td><td width="50%">
-
-Explanation
-
-</td></tr>
-<tr><td width="50%">
-
 Export
 
 </td><td width="50%">
@@ -383,15 +212,6 @@ Files
 </td></tr>
 <tr><td width="50%">
 
-Go Home
-
-</td><td width="50%">
-
-Go Home
-
-</td></tr>
-<tr><td width="50%">
-
 Hide
 
 </td><td width="50%">
@@ -401,47 +221,11 @@ Hide
 </td></tr>
 <tr><td width="50%">
 
-Hide :name
-
-</td><td width="50%">
-
-Hide :name
-
-</td></tr>
-<tr><td width="50%">
-
-Home
-
-</td><td width="50%">
-
-Home
-
-</td></tr>
-<tr><td width="50%">
-
 Image
 
 </td><td width="50%">
 
 Image
-
-</td></tr>
-<tr><td width="50%">
-
-Impersonate
-
-</td><td width="50%">
-
-Impersonate
-
-</td></tr>
-<tr><td width="50%">
-
-Impersonation
-
-</td><td width="50%">
-
-Impersonation
 
 </td></tr>
 <tr><td width="50%">
@@ -460,24 +244,6 @@ Import :name
 </td><td width="50%">
 
 Import :name
-
-</td></tr>
-<tr><td width="50%">
-
-Introduction
-
-</td><td width="50%">
-
-Introduction
-
-</td></tr>
-<tr><td width="50%">
-
-Like
-
-</td><td width="50%">
-
-Like
 
 </td></tr>
 <tr><td width="50%">
@@ -509,78 +275,6 @@ New
 </td></tr>
 <tr><td width="50%">
 
-New :name
-
-</td><td width="50%">
-
-New :name
-
-</td></tr>
-<tr><td width="50%">
-
-No
-
-</td><td width="50%">
-
-No
-
-</td></tr>
-<tr><td width="50%">
-
-Open
-
-</td><td width="50%">
-
-Open
-
-</td></tr>
-<tr><td width="50%">
-
-Open in a current window
-
-</td><td width="50%">
-
-Open in a current window
-
-</td></tr>
-<tr><td width="50%">
-
-Open in a new window
-
-</td><td width="50%">
-
-Open in a new window
-
-</td></tr>
-<tr><td width="50%">
-
-Open in a parent frame
-
-</td><td width="50%">
-
-Open in a parent frame
-
-</td></tr>
-<tr><td width="50%">
-
-Open in the topmost frame
-
-</td><td width="50%">
-
-Open in the topmost frame
-
-</td></tr>
-<tr><td width="50%">
-
-Open on the website
-
-</td><td width="50%">
-
-Open on the website
-
-</td></tr>
-<tr><td width="50%">
-
 Preview
 
 </td><td width="50%">
@@ -599,92 +293,11 @@ Price
 </td></tr>
 <tr><td width="50%">
 
-Restore
-
-</td><td width="50%">
-
-Restore
-
-</td></tr>
-<tr><td width="50%">
-
-Restore :name
-
-</td><td width="50%">
-
-Restore :name
-
-</td></tr>
-<tr><td width="50%">
-
-Save
-
-</td><td width="50%">
-
-Save
-
-</td></tr>
-<tr><td width="50%">
-
-Save & Close
-
-</td><td width="50%">
-
-Save & Close
-
-</td></tr>
-<tr><td width="50%">
-
-Save & Return
-
-</td><td width="50%">
-
-Save & Return
-
-</td></tr>
-<tr><td width="50%">
-
-Save :name
-
-</td><td width="50%">
-
-Save :name
-
-</td></tr>
-<tr><td width="50%">
-
 Search
 
 </td><td width="50%">
 
 Search
-
-</td></tr>
-<tr><td width="50%">
-
-Search :name
-
-</td><td width="50%">
-
-Search :name
-
-</td></tr>
-<tr><td width="50%">
-
-Select
-
-</td><td width="50%">
-
-Select
-
-</td></tr>
-<tr><td width="50%">
-
-Select All
-
-</td><td width="50%">
-
-Select All
 
 </td></tr>
 <tr><td width="50%">
@@ -712,24 +325,6 @@ Show
 </td><td width="50%">
 
 Show
-
-</td></tr>
-<tr><td width="50%">
-
-Show :name
-
-</td><td width="50%">
-
-Show :name
-
-</td></tr>
-<tr><td width="50%">
-
-Show All
-
-</td><td width="50%">
-
-Show All
 
 </td></tr>
 <tr><td width="50%">
@@ -770,15 +365,6 @@ Switch
 </td></tr>
 <tr><td width="50%">
 
-Switch To Role
-
-</td><td width="50%">
-
-Switch To Role
-
-</td></tr>
-<tr><td width="50%">
-
 Tag
 
 </td><td width="50%">
@@ -793,24 +379,6 @@ Tags
 </td><td width="50%">
 
 Tags
-
-</td></tr>
-<tr><td width="50%">
-
-Translate
-
-</td><td width="50%">
-
-Translate
-
-</td></tr>
-<tr><td width="50%">
-
-Translate It
-
-</td><td width="50%">
-
-Translate It
 
 </td></tr>
 <tr><td width="50%">
@@ -860,38 +428,11 @@ Update :name
 </td></tr>
 <tr><td width="50%">
 
-User
-
-</td><td width="50%">
-
-User
-
-</td></tr>
-<tr><td width="50%">
-
 View
 
 </td><td width="50%">
 
 View
-
-</td></tr>
-<tr><td width="50%">
-
-View :name
-
-</td><td width="50%">
-
-View :name
-
-</td></tr>
-<tr><td width="50%">
-
-Yes
-
-</td><td width="50%">
-
-Yes
 
 </td></tr>
 </table>
@@ -902,7 +443,7 @@ Yes
 
 ### php
 
-##### Missing: 97
+##### Missing: 46
 
 <table width="100%">
 <tr><th width="50%">
@@ -916,56 +457,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-accept
-
-</td><td width="50%">
-
-Accept
-
-</td></tr>
-<tr><td width="50%">
-
-action
-
-</td><td width="50%">
-
-Action
-
-</td></tr>
-<tr><td width="50%">
-
-actions
-
-</td><td width="50%">
-
-Actions
-
-</td></tr>
-<tr><td width="50%">
-
-add
-
-</td><td width="50%">
-
-Add
-
-</td></tr>
-<tr><td width="50%">
-
 admin
 
 </td><td width="50%">
 
 Admin
-
-</td></tr>
-<tr><td width="50%">
-
-agree
-
-</td><td width="50%">
-
-Agree
 
 </td></tr>
 <tr><td width="50%">
@@ -979,65 +475,11 @@ Archive
 </td></tr>
 <tr><td width="50%">
 
-assign
-
-</td><td width="50%">
-
-Assign
-
-</td></tr>
-<tr><td width="50%">
-
-attach
-
-</td><td width="50%">
-
-Attach
-
-</td></tr>
-<tr><td width="50%">
-
 browse
 
 </td><td width="50%">
 
 Browse
-
-</td></tr>
-<tr><td width="50%">
-
-cancel
-
-</td><td width="50%">
-
-Cancel
-
-</td></tr>
-<tr><td width="50%">
-
-choose
-
-</td><td width="50%">
-
-Choose
-
-</td></tr>
-<tr><td width="50%">
-
-choose_file
-
-</td><td width="50%">
-
-Choose File
-
-</td></tr>
-<tr><td width="50%">
-
-choose_image
-
-</td><td width="50%">
-
-Choose Image
 
 </td></tr>
 <tr><td width="50%">
@@ -1141,33 +583,6 @@ Disable
 </td></tr>
 <tr><td width="50%">
 
-discard
-
-</td><td width="50%">
-
-Discard
-
-</td></tr>
-<tr><td width="50%">
-
-done
-
-</td><td width="50%">
-
-Done
-
-</td></tr>
-<tr><td width="50%">
-
-down
-
-</td><td width="50%">
-
-Down
-
-</td></tr>
-<tr><td width="50%">
-
 duplicate
 
 </td><td width="50%">
@@ -1191,33 +606,6 @@ enable
 </td><td width="50%">
 
 Enable
-
-</td></tr>
-<tr><td width="50%">
-
-expand
-
-</td><td width="50%">
-
-Expand
-
-</td></tr>
-<tr><td width="50%">
-
-expand_all
-
-</td><td width="50%">
-
-Expand All
-
-</td></tr>
-<tr><td width="50%">
-
-explanation
-
-</td><td width="50%">
-
-Explanation
 
 </td></tr>
 <tr><td width="50%">
@@ -1249,29 +637,11 @@ Files
 </td></tr>
 <tr><td width="50%">
 
-go_home
-
-</td><td width="50%">
-
-Go Home
-
-</td></tr>
-<tr><td width="50%">
-
 hide
 
 </td><td width="50%">
 
 Hide
-
-</td></tr>
-<tr><td width="50%">
-
-home
-
-</td><td width="50%">
-
-Home
 
 </td></tr>
 <tr><td width="50%">
@@ -1285,47 +655,11 @@ Image
 </td></tr>
 <tr><td width="50%">
 
-Impersonate
-
-</td><td width="50%">
-
-Impersonate
-
-</td></tr>
-<tr><td width="50%">
-
-Impersonation
-
-</td><td width="50%">
-
-Impersonation
-
-</td></tr>
-<tr><td width="50%">
-
 import
 
 </td><td width="50%">
 
 Import
-
-</td></tr>
-<tr><td width="50%">
-
-introduction
-
-</td><td width="50%">
-
-Introduction
-
-</td></tr>
-<tr><td width="50%">
-
-like
-
-</td><td width="50%">
-
-Like
 
 </td></tr>
 <tr><td width="50%">
@@ -1348,38 +682,11 @@ Localize
 </td></tr>
 <tr><td width="50%">
 
-named.choose
-
-</td><td width="50%">
-
-Choose :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.duplicate
-
-</td><td width="50%">
-
-Duplicate: name
-
-</td></tr>
-<tr><td width="50%">
-
 named.edit
 
 </td><td width="50%">
 
 Edit :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.hide
-
-</td><td width="50%">
-
-Hide :name
 
 </td></tr>
 <tr><td width="50%">
@@ -1393,51 +700,6 @@ Import :name
 </td></tr>
 <tr><td width="50%">
 
-named.new
-
-</td><td width="50%">
-
-New :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.restore
-
-</td><td width="50%">
-
-Restore :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.save
-
-</td><td width="50%">
-
-Save :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.search
-
-</td><td width="50%">
-
-Search :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.show
-
-</td><td width="50%">
-
-Show :name
-
-</td></tr>
-<tr><td width="50%">
-
 named.update
 
 </td><td width="50%">
@@ -1447,47 +709,11 @@ Update :name
 </td></tr>
 <tr><td width="50%">
 
-named.view
-
-</td><td width="50%">
-
-View :name
-
-</td></tr>
-<tr><td width="50%">
-
 new
 
 </td><td width="50%">
 
 New
-
-</td></tr>
-<tr><td width="50%">
-
-no
-
-</td><td width="50%">
-
-No
-
-</td></tr>
-<tr><td width="50%">
-
-open
-
-</td><td width="50%">
-
-Open
-
-</td></tr>
-<tr><td width="50%">
-
-open_website
-
-</td><td width="50%">
-
-Open on the website
 
 </td></tr>
 <tr><td width="50%">
@@ -1510,65 +736,11 @@ Price
 </td></tr>
 <tr><td width="50%">
 
-restore
-
-</td><td width="50%">
-
-Restore
-
-</td></tr>
-<tr><td width="50%">
-
-save
-
-</td><td width="50%">
-
-Save
-
-</td></tr>
-<tr><td width="50%">
-
-save_and_close
-
-</td><td width="50%">
-
-Save & Close
-
-</td></tr>
-<tr><td width="50%">
-
-save_and_return
-
-</td><td width="50%">
-
-Save & Return
-
-</td></tr>
-<tr><td width="50%">
-
 search
 
 </td><td width="50%">
 
 Search
-
-</td></tr>
-<tr><td width="50%">
-
-select
-
-</td><td width="50%">
-
-Select
-
-</td></tr>
-<tr><td width="50%">
-
-select_all
-
-</td><td width="50%">
-
-Select All
 
 </td></tr>
 <tr><td width="50%">
@@ -1596,15 +768,6 @@ show
 </td><td width="50%">
 
 Show
-
-</td></tr>
-<tr><td width="50%">
-
-show_all
-
-</td><td width="50%">
-
-Show All
 
 </td></tr>
 <tr><td width="50%">
@@ -1645,15 +808,6 @@ Switch
 </td></tr>
 <tr><td width="50%">
 
-switch_to_role
-
-</td><td width="50%">
-
-Switch To Role
-
-</td></tr>
-<tr><td width="50%">
-
 tag
 
 </td><td width="50%">
@@ -1668,60 +822,6 @@ tags
 </td><td width="50%">
 
 Tags
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.blank
-
-</td><td width="50%">
-
-Open in a new window
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.parent
-
-</td><td width="50%">
-
-Open in a parent frame
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.self
-
-</td><td width="50%">
-
-Open in a current window
-
-</td></tr>
-<tr><td width="50%">
-
-target_link.top
-
-</td><td width="50%">
-
-Open in the topmost frame
-
-</td></tr>
-<tr><td width="50%">
-
-translate
-
-</td><td width="50%">
-
-Translate
-
-</td></tr>
-<tr><td width="50%">
-
-translate_it
-
-</td><td width="50%">
-
-Translate It
 
 </td></tr>
 <tr><td width="50%">
@@ -1762,29 +862,11 @@ Update
 </td></tr>
 <tr><td width="50%">
 
-user
-
-</td><td width="50%">
-
-User
-
-</td></tr>
-<tr><td width="50%">
-
 view
 
 </td><td width="50%">
 
 View
-
-</td></tr>
-<tr><td width="50%">
-
-yes
-
-</td><td width="50%">
-
-Yes
 
 </td></tr>
 </table>
