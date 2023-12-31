@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 92
+##### All missed: 90
 
 
 ### json
 
-##### Missing: 46
+##### Missing: 45
 
 <table width="100%">
 <tr><th width="50%">
@@ -347,15 +347,6 @@ Submit
 </td></tr>
 <tr><td width="50%">
 
-Subscribe
-
-</td><td width="50%">
-
-Subscribe
-
-</td></tr>
-<tr><td width="50%">
-
 Switch
 
 </td><td width="50%">
@@ -443,7 +434,7 @@ View
 
 ### php
 
-##### Missing: 46
+##### Missing: 45
 
 <table width="100%">
 <tr><th width="50%">
@@ -786,15 +777,6 @@ submit
 </td><td width="50%">
 
 Submit
-
-</td></tr>
-<tr><td width="50%">
-
-subscribe
-
-</td><td width="50%">
-
-Subscribe
 
 </td></tr>
 <tr><td width="50%">
