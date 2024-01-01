@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 22
+##### All missed: 24
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,15 @@ Attach
 </td><td width="50%">
 
 Attach
+
+</td></tr>
+<tr><td width="50%">
+
+Click to copy
+
+</td><td width="50%">
+
+Click to copy
 
 </td></tr>
 <tr><td width="50%">
@@ -128,7 +137,7 @@ Up
 
 ### php
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -147,6 +156,15 @@ attach
 </td><td width="50%">
 
 Attach
+
+</td></tr>
+<tr><td width="50%">
+
+click_to_copy
+
+</td><td width="50%">
+
+Click to copy
 
 </td></tr>
 <tr><td width="50%">

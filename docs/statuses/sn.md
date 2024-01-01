@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 90
+##### All missed: 92
 
 
 ### json
 
-##### Missing: 45
+##### Missing: 46
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,6 +46,15 @@ Browse
 </td><td width="50%">
 
 Browse
+
+</td></tr>
+<tr><td width="50%">
+
+Click to copy
+
+</td><td width="50%">
+
+Click to copy
 
 </td></tr>
 <tr><td width="50%">
@@ -434,7 +443,7 @@ View
 
 ### php
 
-##### Missing: 45
+##### Missing: 46
 
 <table width="100%">
 <tr><th width="50%">
@@ -471,6 +480,15 @@ browse
 </td><td width="50%">
 
 Browse
+
+</td></tr>
+<tr><td width="50%">
+
+click_to_copy
+
+</td><td width="50%">
+
+Click to copy
 
 </td></tr>
 <tr><td width="50%">

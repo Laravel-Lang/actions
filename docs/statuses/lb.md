@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 28
+##### All missed: 30
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,15 @@ Admin
 </td><td width="50%">
 
 Admin
+
+</td></tr>
+<tr><td width="50%">
+
+Click to copy
+
+</td><td width="50%">
+
+Click to copy
 
 </td></tr>
 <tr><td width="50%">
@@ -155,7 +164,7 @@ Update :name
 
 ### php
 
-##### Missing: 14
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -174,6 +183,15 @@ admin
 </td><td width="50%">
 
 Admin
+
+</td></tr>
+<tr><td width="50%">
+
+click_to_copy
+
+</td><td width="50%">
+
+Click to copy
 
 </td></tr>
 <tr><td width="50%">

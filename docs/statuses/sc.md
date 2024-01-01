@@ -4,12 +4,12 @@ editLink: false
 
 # sc
 
-##### All missed: 194
+##### All missed: 196
 
 
 ### json
 
-##### Missing: 97
+##### Missing: 98
 
 <table width="100%">
 <tr><th width="50%">
@@ -154,6 +154,15 @@ Choose Image
 </td><td width="50%">
 
 Choose Image
+
+</td></tr>
+<tr><td width="50%">
+
+Click to copy
+
+</td><td width="50%">
+
+Click to copy
 
 </td></tr>
 <tr><td width="50%">
@@ -902,7 +911,7 @@ Yes
 
 ### php
 
-##### Missing: 97
+##### Missing: 98
 
 <table width="100%">
 <tr><th width="50%">
@@ -1038,6 +1047,15 @@ choose_image
 </td><td width="50%">
 
 Choose Image
+
+</td></tr>
+<tr><td width="50%">
+
+click_to_copy
+
+</td><td width="50%">
+
+Click to copy
 
 </td></tr>
 <tr><td width="50%">

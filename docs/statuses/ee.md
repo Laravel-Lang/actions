@@ -4,12 +4,12 @@ editLink: false
 
 # ee
 
-##### All missed: 2
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -30,6 +30,15 @@ Admin
 Admin
 
 </td></tr>
+<tr><td width="50%">
+
+Click to copy
+
+</td><td width="50%">
+
+Click to copy
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -38,7 +47,7 @@ Admin
 
 ### php
 
-##### Missing: 1
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -57,6 +66,15 @@ admin
 </td><td width="50%">
 
 Admin
+
+</td></tr>
+<tr><td width="50%">
+
+click_to_copy
+
+</td><td width="50%">
+
+Click to copy
 
 </td></tr>
 </table>
