@@ -17,6 +17,7 @@ return [
     'choose'        => 'Choose',
     'choose_file'   => 'Choose File',
     'choose_image'  => 'Choose Image',
+    'click_to_copy' => 'Click to copy',
     'close'         => 'Close',
     'collapse'      => 'Collapse',
     'collapse_all'  => 'Collapse All',
