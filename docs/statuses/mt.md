@@ -4,12 +4,12 @@ editLink: false
 
 # mt
 
-##### All missed: 14
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Click to copy
-
-</td><td width="50%">
-
-Click to copy
-
-</td></tr>
 <tr><td width="50%">
 
 Down
@@ -92,7 +83,7 @@ Up
 
 ### php
 
-##### Missing: 7
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -104,15 +95,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-click_to_copy
-
-</td><td width="50%">
-
-Click to copy
-
-</td></tr>
 <tr><td width="50%">
 
 down
