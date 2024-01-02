@@ -4,12 +4,12 @@ editLink: false
 
 # lg
 
-##### All missed: 10
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ Browse
 </td><td width="50%">
 
 Browse
-
-</td></tr>
-<tr><td width="50%">
-
-Click to copy
-
-</td><td width="50%">
-
-Click to copy
 
 </td></tr>
 <tr><td width="50%">
@@ -74,7 +65,7 @@ Tags
 
 ### php
 
-##### Missing: 5
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -102,15 +93,6 @@ browse
 </td><td width="50%">
 
 Browse
-
-</td></tr>
-<tr><td width="50%">
-
-click_to_copy
-
-</td><td width="50%">
-
-Click to copy
 
 </td></tr>
 <tr><td width="50%">
