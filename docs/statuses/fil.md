@@ -4,12 +4,12 @@ editLink: false
 
 # fil
 
-##### All missed: 12
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ Archive
 </td><td width="50%">
 
 Archive
-
-</td></tr>
-<tr><td width="50%">
-
-Click to copy
-
-</td><td width="50%">
-
-Click to copy
 
 </td></tr>
 <tr><td width="50%">
@@ -83,7 +74,7 @@ Update :name
 
 ### php
 
-##### Missing: 6
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -111,15 +102,6 @@ archive
 </td><td width="50%">
 
 Archive
-
-</td></tr>
-<tr><td width="50%">
-
-click_to_copy
-
-</td><td width="50%">
-
-Click to copy
 
 </td></tr>
 <tr><td width="50%">

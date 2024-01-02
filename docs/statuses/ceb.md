@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 26
+##### All missed: 24
 
 
 ### json
 
-##### Missing: 13
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ Archive
 </td><td width="50%">
 
 Archive
-
-</td></tr>
-<tr><td width="50%">
-
-Click to copy
-
-</td><td width="50%">
-
-Click to copy
 
 </td></tr>
 <tr><td width="50%">
@@ -146,7 +137,7 @@ Update :name
 
 ### php
 
-##### Missing: 13
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -174,15 +165,6 @@ archive
 </td><td width="50%">
 
 Archive
-
-</td></tr>
-<tr><td width="50%">
-
-click_to_copy
-
-</td><td width="50%">
-
-Click to copy
 
 </td></tr>
 <tr><td width="50%">
