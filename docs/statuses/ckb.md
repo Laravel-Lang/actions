@@ -4,12 +4,12 @@ editLink: false
 
 # ckb
 
-##### All missed: 4
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Click to copy
-
-</td><td width="50%">
-
-Click to copy
-
-</td></tr>
 <tr><td width="50%">
 
 Switch To Role
@@ -47,7 +38,7 @@ Switch To Role
 
 ### php
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,15 +50,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-click_to_copy
-
-</td><td width="50%">
-
-Click to copy
-
-</td></tr>
 <tr><td width="50%">
 
 switch_to_role

@@ -4,12 +4,12 @@ editLink: false
 
 # gd
 
-##### All missed: 16
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Click to copy
-
-</td><td width="50%">
-
-Click to copy
-
-</td></tr>
 <tr><td width="50%">
 
 Detach
@@ -101,7 +92,7 @@ Unpack
 
 ### php
 
-##### Missing: 8
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,15 +104,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-click_to_copy
-
-</td><td width="50%">
-
-Click to copy
-
-</td></tr>
 <tr><td width="50%">
 
 detach

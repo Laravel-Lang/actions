@@ -4,12 +4,12 @@ editLink: false
 
 # de
 
-##### All missed: 6
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,15 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Click to copy
-
-</td><td width="50%">
-
-Click to copy
-
-</td></tr>
 <tr><td width="50%">
 
 Export
@@ -56,7 +47,7 @@ Update :name
 
 ### php
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -68,15 +59,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-click_to_copy
-
-</td><td width="50%">
-
-Click to copy
-
-</td></tr>
 <tr><td width="50%">
 
 export
