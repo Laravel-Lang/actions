@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 6
+##### All missed: 5
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,15 +37,6 @@ Export
 </td><td width="50%">
 
 Export
-
-</td></tr>
-<tr><td width="50%">
-
-Tag
-
-</td><td width="50%">
-
-Tag
 
 </td></tr>
 </table>
