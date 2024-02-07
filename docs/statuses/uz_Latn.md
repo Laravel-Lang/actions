@@ -302,11 +302,11 @@ Duplicate
 </td></tr>
 <tr><td width="50%">
 
-Duplicate: name
+Duplicate :name
 
 </td><td width="50%">
 
-Duplicate: name
+Duplicate :name
 
 </td></tr>
 <tr><td width="50%">
@@ -1379,7 +1379,7 @@ named.duplicate
 
 </td><td width="50%">
 
-Duplicate: name
+Duplicate :name
 
 </td></tr>
 <tr><td width="50%">
