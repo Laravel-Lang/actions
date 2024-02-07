@@ -102,7 +102,7 @@ return [
         'show'      => 'Show :name',
         'update'    => 'Update :name',
         'view'      => 'View :name',
-        'duplicate' => 'Duplicate: name',
+        'duplicate' => 'Duplicate :name',
         'search'    => 'Search :name',
     ],
 ];

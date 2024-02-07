@@ -49,7 +49,7 @@
     "load": "Belastung",
     "localize": "Lokalisieren",
     "named.choose": "Wählen Sie :name",
-    "named.duplicate": "Duplikat: Name",
+    "named.duplicate": "Duplikat :name",
     "named.edit": "Bearbeiten :name",
     "named.hide": ":name ausblenden",
     "named.import": "Importieren Sie :name",
