@@ -49,7 +49,7 @@
     "load": "Load",
     "localize": "Localize",
     "named.choose": "Choose :name",
-    "named.duplicate": "Duplicate: name",
+    "named.duplicate": "Duplicate :name",
     "named.edit": "Edit :name",
     "named.hide": "Hide :name",
     "named.import": "Import :name",
