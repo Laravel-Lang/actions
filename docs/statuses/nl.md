@@ -4,12 +4,12 @@ editLink: false
 
 # nl
 
-##### All missed: 8
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,38 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Details
+Update :name
 
 </td><td width="50%">
 
-Details
-
-</td></tr>
-<tr><td width="50%">
-
-Open
-
-</td><td width="50%">
-
-Open
-
-</td></tr>
-<tr><td width="50%">
-
-Show
-
-</td><td width="50%">
-
-Show
-
-</td></tr>
-<tr><td width="50%">
-
-Update
-
-</td><td width="50%">
-
-Update
+Update :name
 
 </td></tr>
 </table>
@@ -65,7 +38,7 @@ Update
 
 ### php
 
-##### Missing: 4
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -79,38 +52,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-details
+named.update
 
 </td><td width="50%">
 
-Details
-
-</td></tr>
-<tr><td width="50%">
-
-open
-
-</td><td width="50%">
-
-Open
-
-</td></tr>
-<tr><td width="50%">
-
-show
-
-</td><td width="50%">
-
-Show
-
-</td></tr>
-<tr><td width="50%">
-
-update
-
-</td><td width="50%">
-
-Update
+Update :name
 
 </td></tr>
 </table>
