@@ -49,7 +49,7 @@
     "load": "تحميل",
     "localize": "اللغة",
     "named.choose": "اختر :name",
-    "named.duplicate": "مكرر: الاسم",
+    "named.duplicate": "نسخ :name",
     "named.edit": "تعديل :name",
     "named.hide": "إخفاء :name",
     "named.import": "استيراد :name",
