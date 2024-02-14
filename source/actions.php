@@ -92,7 +92,10 @@ return [
     'view'            => 'View',
     'yes'             => 'Yes',
     'named'           => [
+        'add'       => 'Add :name',
         'choose'    => 'Choose :name',
+        'create'    => 'Create :name',
+        'delete'    => 'Delete :name',
         'edit'      => 'Edit :name',
         'hide'      => 'Hide :name',
         'import'    => 'Import :name',

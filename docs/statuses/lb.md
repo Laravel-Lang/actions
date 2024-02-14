@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 28
+##### All missed: 34
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Add :name
+
+</td><td width="50%">
+
+Add :name
+
+</td></tr>
 <tr><td width="50%">
 
 Admin
@@ -37,6 +46,24 @@ Connect
 </td><td width="50%">
 
 Connect
+
+</td></tr>
+<tr><td width="50%">
+
+Create :name
+
+</td><td width="50%">
+
+Create :name
+
+</td></tr>
+<tr><td width="50%">
+
+Delete :name
+
+</td><td width="50%">
+
+Delete :name
 
 </td></tr>
 <tr><td width="50%">
@@ -155,7 +182,7 @@ Update :name
 
 ### php
 
-##### Missing: 14
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -219,6 +246,33 @@ import
 </td><td width="50%">
 
 Import
+
+</td></tr>
+<tr><td width="50%">
+
+named.add
+
+</td><td width="50%">
+
+Add :name
+
+</td></tr>
+<tr><td width="50%">
+
+named.create
+
+</td><td width="50%">
+
+Create :name
+
+</td></tr>
+<tr><td width="50%">
+
+named.delete
+
+</td><td width="50%">
+
+Delete :name
 
 </td></tr>
 <tr><td width="50%">

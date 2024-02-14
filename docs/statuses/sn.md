@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 90
+##### All missed: 96
 
 
 ### json
 
-##### Missing: 45
+##### Missing: 48
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Add :name
+
+</td><td width="50%">
+
+Add :name
+
+</td></tr>
+<tr><td width="50%">
+
 Admin
 
 </td><td width="50%">
@@ -113,11 +122,29 @@ Create
 </td></tr>
 <tr><td width="50%">
 
+Create :name
+
+</td><td width="50%">
+
+Create :name
+
+</td></tr>
+<tr><td width="50%">
+
 Delete
 
 </td><td width="50%">
 
 Delete
+
+</td></tr>
+<tr><td width="50%">
+
+Delete :name
+
+</td><td width="50%">
+
+Delete :name
 
 </td></tr>
 <tr><td width="50%">
@@ -434,7 +461,7 @@ View
 
 ### php
 
-##### Missing: 45
+##### Missing: 48
 
 <table width="100%">
 <tr><th width="50%">
@@ -669,6 +696,33 @@ localize
 </td><td width="50%">
 
 Localize
+
+</td></tr>
+<tr><td width="50%">
+
+named.add
+
+</td><td width="50%">
+
+Add :name
+
+</td></tr>
+<tr><td width="50%">
+
+named.create
+
+</td><td width="50%">
+
+Create :name
+
+</td></tr>
+<tr><td width="50%">
+
+named.delete
+
+</td><td width="50%">
+
+Delete :name
 
 </td></tr>
 <tr><td width="50%">
