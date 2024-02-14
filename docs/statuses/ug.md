@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 22
+##### All missed: 28
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,11 +23,38 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Add :name
+
+</td><td width="50%">
+
+Add :name
+
+</td></tr>
+<tr><td width="50%">
+
 Attach
 
 </td><td width="50%">
 
 Attach
+
+</td></tr>
+<tr><td width="50%">
+
+Create :name
+
+</td><td width="50%">
+
+Create :name
+
+</td></tr>
+<tr><td width="50%">
+
+Delete :name
+
+</td><td width="50%">
+
+Delete :name
 
 </td></tr>
 <tr><td width="50%">
@@ -128,7 +155,7 @@ Up
 
 ### php
 
-##### Missing: 11
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -192,6 +219,33 @@ named.import
 </td><td width="50%">
 
 Import :name
+
+</td></tr>
+<tr><td width="50%">
+
+named.named.add
+
+</td><td width="50%">
+
+Add :name
+
+</td></tr>
+<tr><td width="50%">
+
+named.named.create
+
+</td><td width="50%">
+
+Create :name
+
+</td></tr>
+<tr><td width="50%">
+
+named.named.delete
+
+</td><td width="50%">
+
+Delete :name
 
 </td></tr>
 <tr><td width="50%">
