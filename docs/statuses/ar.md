@@ -23,7 +23,7 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-named.named.add
+named.add
 
 </td><td width="50%">
 
@@ -32,7 +32,7 @@ Add :name
 </td></tr>
 <tr><td width="50%">
 
-named.named.create
+named.create
 
 </td><td width="50%">
 
@@ -41,7 +41,7 @@ Create :name
 </td></tr>
 <tr><td width="50%">
 
-named.named.delete
+named.delete
 
 </td><td width="50%">
 
