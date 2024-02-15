@@ -4,12 +4,12 @@ editLink: false
 
 # gd
 
-##### All missed: 20
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,33 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Add :name
-
-</td><td width="50%">
-
-Add :name
-
-</td></tr>
-<tr><td width="50%">
-
-Create :name
-
-</td><td width="50%">
-
-Create :name
-
-</td></tr>
-<tr><td width="50%">
-
-Delete :name
-
-</td><td width="50%">
-
-Delete :name
-
-</td></tr>
 <tr><td width="50%">
 
 Detach
@@ -119,7 +92,7 @@ Unpack
 
 ### php
 
-##### Missing: 10
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -165,33 +138,6 @@ like
 </td><td width="50%">
 
 Like
-
-</td></tr>
-<tr><td width="50%">
-
-named.add
-
-</td><td width="50%">
-
-Add :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.create
-
-</td><td width="50%">
-
-Create :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.delete
-
-</td><td width="50%">
-
-Delete :name
 
 </td></tr>
 <tr><td width="50%">
