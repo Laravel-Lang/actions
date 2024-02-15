@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 28
+##### All missed: 22
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,38 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Add :name
-
-</td><td width="50%">
-
-Add :name
-
-</td></tr>
-<tr><td width="50%">
-
 Attach
 
 </td><td width="50%">
 
 Attach
-
-</td></tr>
-<tr><td width="50%">
-
-Create :name
-
-</td><td width="50%">
-
-Create :name
-
-</td></tr>
-<tr><td width="50%">
-
-Delete :name
-
-</td><td width="50%">
-
-Delete :name
 
 </td></tr>
 <tr><td width="50%">
@@ -155,7 +128,7 @@ Up
 
 ### php
 
-##### Missing: 14
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -201,33 +174,6 @@ load
 </td><td width="50%">
 
 Load
-
-</td></tr>
-<tr><td width="50%">
-
-named.add
-
-</td><td width="50%">
-
-Add :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.create
-
-</td><td width="50%">
-
-Create :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.delete
-
-</td><td width="50%">
-
-Delete :name
 
 </td></tr>
 <tr><td width="50%">
