@@ -4,12 +4,12 @@ editLink: false
 
 # mn
 
-##### All missed: 8
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 4
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,33 +21,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-Add :name
-
-</td><td width="50%">
-
-Add :name
-
-</td></tr>
-<tr><td width="50%">
-
-Create :name
-
-</td><td width="50%">
-
-Create :name
-
-</td></tr>
-<tr><td width="50%">
-
-Delete :name
-
-</td><td width="50%">
-
-Delete :name
-
-</td></tr>
 <tr><td width="50%">
 
 Tag
@@ -65,7 +38,7 @@ Tag
 
 ### php
 
-##### Missing: 4
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -77,33 +50,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-named.add
-
-</td><td width="50%">
-
-Add :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.create
-
-</td><td width="50%">
-
-Create :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.delete
-
-</td><td width="50%">
-
-Delete :name
-
-</td></tr>
 <tr><td width="50%">
 
 tag
