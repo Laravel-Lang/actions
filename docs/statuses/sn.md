@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 96
+##### All missed: 92
 
 
 ### json
 
-##### Missing: 48
+##### Missing: 46
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,15 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Add :name
-
-</td><td width="50%">
-
-Add :name
-
-</td></tr>
-<tr><td width="50%">
-
 Admin
 
 </td><td width="50%">
@@ -118,15 +109,6 @@ Create
 </td><td width="50%">
 
 Create
-
-</td></tr>
-<tr><td width="50%">
-
-Create :name
-
-</td><td width="50%">
-
-Create :name
 
 </td></tr>
 <tr><td width="50%">
@@ -461,7 +443,7 @@ View
 
 ### php
 
-##### Missing: 48
+##### Missing: 46
 
 <table width="100%">
 <tr><th width="50%">
@@ -696,24 +678,6 @@ localize
 </td><td width="50%">
 
 Localize
-
-</td></tr>
-<tr><td width="50%">
-
-named.add
-
-</td><td width="50%">
-
-Add :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.create
-
-</td><td width="50%">
-
-Create :name
 
 </td></tr>
 <tr><td width="50%">
