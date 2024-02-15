@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 24
+##### All missed: 20
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,24 +46,6 @@ Admin
 </td><td width="50%">
 
 Admin
-
-</td></tr>
-<tr><td width="50%">
-
-Create :name
-
-</td><td width="50%">
-
-Create :name
-
-</td></tr>
-<tr><td width="50%">
-
-Delete :name
-
-</td><td width="50%">
-
-Delete :name
 
 </td></tr>
 <tr><td width="50%">
@@ -137,7 +119,7 @@ Update :name
 
 ### php
 
-##### Missing: 12
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -192,24 +174,6 @@ named.add
 </td><td width="50%">
 
 Add :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.create
-
-</td><td width="50%">
-
-Create :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.delete
-
-</td><td width="50%">
-
-Delete :name
 
 </td></tr>
 <tr><td width="50%">
