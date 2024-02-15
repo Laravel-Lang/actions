@@ -4,12 +4,12 @@ editLink: false
 
 # hu
 
-##### All missed: 10
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,38 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Add :name
-
-</td><td width="50%">
-
-Add :name
-
-</td></tr>
-<tr><td width="50%">
-
 Admin
 
 </td><td width="50%">
 
 Admin
-
-</td></tr>
-<tr><td width="50%">
-
-Create :name
-
-</td><td width="50%">
-
-Create :name
-
-</td></tr>
-<tr><td width="50%">
-
-Delete :name
-
-</td><td width="50%">
-
-Delete :name
 
 </td></tr>
 <tr><td width="50%">
@@ -74,7 +47,7 @@ Export
 
 ### php
 
-##### Missing: 5
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -102,33 +75,6 @@ export
 </td><td width="50%">
 
 Export
-
-</td></tr>
-<tr><td width="50%">
-
-named.add
-
-</td><td width="50%">
-
-Add :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.create
-
-</td><td width="50%">
-
-Create :name
-
-</td></tr>
-<tr><td width="50%">
-
-named.delete
-
-</td><td width="50%">
-
-Delete :name
 
 </td></tr>
 </table>
