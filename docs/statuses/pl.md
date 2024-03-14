@@ -4,12 +4,12 @@ editLink: false
 
 # pl
 
-##### All missed: 4
+##### All missed: 2
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,20 +23,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Admin
+Tag
 
 </td><td width="50%">
 
-Admin
-
-</td></tr>
-<tr><td width="50%">
-
-Import
-
-</td><td width="50%">
-
-Import
+Tag
 
 </td></tr>
 </table>
@@ -47,7 +38,7 @@ Import
 
 ### php
 
-##### Missing: 2
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -61,20 +52,11 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-admin
+tag
 
 </td><td width="50%">
 
-Admin
-
-</td></tr>
-<tr><td width="50%">
-
-import
-
-</td><td width="50%">
-
-Import
+Tag
 
 </td></tr>
 </table>
