@@ -52,7 +52,7 @@
     "named.choose": "Choisissez :name",
     "named.create": "Créer :name",
     "named.delete": "Supprimer :name",
-    "named.duplicate": "Duplicata : nom",
+    "named.duplicate": "Dupliquer :name",
     "named.edit": "Modifier :name",
     "named.hide": "Masquer :name",
     "named.import": "Importer :name",
