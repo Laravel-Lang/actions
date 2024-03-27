@@ -52,10 +52,13 @@ return [
     'like'          => 'Like',
     'load'          => 'Load',
     'localize'      => 'Localize',
+    'log_in'        => 'Log In',
+    'log_out'       => 'Log Out',
     'new'           => 'New',
     'no'            => 'No',
     'open'          => 'Open',
     'open_website'  => 'Open on the website',
+    'sign_in'       => 'Sign In',
     'target_link'   => [
         'self'   => 'Open in a current window',
         'blank'  => 'Open in a new window',
