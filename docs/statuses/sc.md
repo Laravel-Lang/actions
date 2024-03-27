@@ -1330,7 +1330,7 @@ Image
 </td></tr>
 <tr><td width="50%">
 
-Impersonate
+impersonate
 
 </td><td width="50%">
 
@@ -1339,7 +1339,7 @@ Impersonate
 </td></tr>
 <tr><td width="50%">
 
-Impersonation
+impersonation
 
 </td><td width="50%">
 
