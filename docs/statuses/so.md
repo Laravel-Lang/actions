@@ -4,12 +4,12 @@ editLink: false
 
 # so
 
-##### All missed: 6
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,33 @@ Admin
 </td><td width="50%">
 
 Admin
+
+</td></tr>
+<tr><td width="50%">
+
+Log In
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+Log Out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
+Sign In
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">
@@ -56,7 +83,7 @@ Tags
 
 ### php
 
-##### Missing: 3
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -75,6 +102,33 @@ admin
 </td><td width="50%">
 
 Admin
+
+</td></tr>
+<tr><td width="50%">
+
+log_in
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+log_out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
+sign_in
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">

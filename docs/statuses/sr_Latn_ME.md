@@ -4,12 +4,12 @@ editLink: false
 
 # sr_Latn_ME
 
-##### All missed: 202
+##### All missed: 208
 
 
 ### json
 
-##### Missing: 101
+##### Missing: 104
 
 <table width="100%">
 <tr><th width="50%">
@@ -536,6 +536,24 @@ Localize
 </td></tr>
 <tr><td width="50%">
 
+Log In
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+Log Out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 New
 
 </td><td width="50%">
@@ -766,6 +784,15 @@ Show All
 </td><td width="50%">
 
 Show All
+
+</td></tr>
+<tr><td width="50%">
+
+Sign In
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">
@@ -938,7 +965,7 @@ Yes
 
 ### php
 
-##### Missing: 101
+##### Missing: 104
 
 <table width="100%">
 <tr><th width="50%">
@@ -1393,6 +1420,24 @@ Localize
 </td></tr>
 <tr><td width="50%">
 
+log_in
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+log_out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 named.add
 
 </td><td width="50%">
@@ -1677,6 +1722,15 @@ show_all
 </td><td width="50%">
 
 Show All
+
+</td></tr>
+<tr><td width="50%">
+
+sign_in
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">

@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 10
+##### All missed: 16
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -66,6 +66,33 @@ Import :name
 Import :name
 
 </td></tr>
+<tr><td width="50%">
+
+Log In
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+Log Out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
+Sign In
+
+</td><td width="50%">
+
+Sign In
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -74,7 +101,7 @@ Import :name
 
 ### php
 
-##### Missing: 5
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -124,11 +151,38 @@ Import
 </td></tr>
 <tr><td width="50%">
 
+log_in
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+log_out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 named.import
 
 </td><td width="50%">
 
 Import :name
+
+</td></tr>
+<tr><td width="50%">
+
+sign_in
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 </table>

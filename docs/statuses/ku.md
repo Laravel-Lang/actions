@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 22
+##### All missed: 28
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -77,11 +77,38 @@ Localize
 </td></tr>
 <tr><td width="50%">
 
+Log In
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+Log Out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 Settings
 
 </td><td width="50%">
 
 Settings
+
+</td></tr>
+<tr><td width="50%">
+
+Sign In
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">
@@ -128,7 +155,7 @@ Tags
 
 ### php
 
-##### Missing: 11
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -187,6 +214,24 @@ Localize
 </td></tr>
 <tr><td width="50%">
 
+log_in
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+log_out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 named.import
 
 </td><td width="50%">
@@ -201,6 +246,15 @@ settings
 </td><td width="50%">
 
 Settings
+
+</td></tr>
+<tr><td width="50%">
+
+sign_in
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">
