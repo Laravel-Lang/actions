@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 28
+##### All missed: 34
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,6 +95,24 @@ Import :name
 </td></tr>
 <tr><td width="50%">
 
+Log In
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+Log Out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 Show
 
 </td><td width="50%">
@@ -109,6 +127,15 @@ Show :name
 </td><td width="50%">
 
 Show :name
+
+</td></tr>
+<tr><td width="50%">
+
+Sign In
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">
@@ -155,7 +182,7 @@ Update :name
 
 ### php
 
-##### Missing: 14
+##### Missing: 17
 
 <table width="100%">
 <tr><th width="50%">
@@ -223,6 +250,24 @@ Import
 </td></tr>
 <tr><td width="50%">
 
+log_in
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+log_out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 named.edit
 
 </td><td width="50%">
@@ -264,6 +309,15 @@ show
 </td><td width="50%">
 
 Show
+
+</td></tr>
+<tr><td width="50%">
+
+sign_in
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">

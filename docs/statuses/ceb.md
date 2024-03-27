@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 24
+##### All missed: 30
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,11 +86,38 @@ Import :name
 </td></tr>
 <tr><td width="50%">
 
+Log In
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+Log Out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 Preview
 
 </td><td width="50%">
 
 Preview
+
+</td></tr>
+<tr><td width="50%">
+
+Sign In
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">
@@ -137,7 +164,7 @@ Update :name
 
 ### php
 
-##### Missing: 12
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -205,6 +232,24 @@ Import
 </td></tr>
 <tr><td width="50%">
 
+log_in
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+log_out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 named.import
 
 </td><td width="50%">
@@ -228,6 +273,15 @@ preview
 </td><td width="50%">
 
 Preview
+
+</td></tr>
+<tr><td width="50%">
+
+sign_in
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">

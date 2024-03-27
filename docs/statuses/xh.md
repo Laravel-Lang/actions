@@ -4,12 +4,12 @@ editLink: false
 
 # xh
 
-##### All missed: 4
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -39,6 +39,33 @@ Comment
 Comment
 
 </td></tr>
+<tr><td width="50%">
+
+Log In
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+Log Out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
+Sign In
+
+</td><td width="50%">
+
+Sign In
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -47,7 +74,7 @@ Comment
 
 ### php
 
-##### Missing: 2
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -75,6 +102,33 @@ comment
 </td><td width="50%">
 
 Comment
+
+</td></tr>
+<tr><td width="50%">
+
+log_in
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+log_out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
+sign_in
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 </table>

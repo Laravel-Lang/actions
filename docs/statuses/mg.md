@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 24
+##### All missed: 30
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,6 +86,24 @@ Localize
 </td></tr>
 <tr><td width="50%">
 
+Log In
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+Log Out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 Select
 
 </td><td width="50%">
@@ -100,6 +118,15 @@ Select All
 </td><td width="50%">
 
 Select All
+
+</td></tr>
+<tr><td width="50%">
+
+Sign In
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">
@@ -137,7 +164,7 @@ View :name
 
 ### php
 
-##### Missing: 12
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -205,6 +232,24 @@ Localize
 </td></tr>
 <tr><td width="50%">
 
+log_in
+
+</td><td width="50%">
+
+Log In
+
+</td></tr>
+<tr><td width="50%">
+
+log_out
+
+</td><td width="50%">
+
+Log Out
+
+</td></tr>
+<tr><td width="50%">
+
 named.import
 
 </td><td width="50%">
@@ -237,6 +282,15 @@ select_all
 </td><td width="50%">
 
 Select All
+
+</td></tr>
+<tr><td width="50%">
+
+sign_in
+
+</td><td width="50%">
+
+Sign In
 
 </td></tr>
 <tr><td width="50%">
