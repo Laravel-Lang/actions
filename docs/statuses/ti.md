@@ -4,12 +4,12 @@ editLink: false
 
 # ti
 
-##### All missed: 6
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,15 +28,6 @@ Log In
 </td><td width="50%">
 
 Log In
-
-</td></tr>
-<tr><td width="50%">
-
-Log Out
-
-</td><td width="50%">
-
-Log Out
 
 </td></tr>
 <tr><td width="50%">
@@ -56,7 +47,7 @@ Sign In
 
 ### php
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -75,15 +66,6 @@ log_in
 </td><td width="50%">
 
 Log In
-
-</td></tr>
-<tr><td width="50%">
-
-log_out
-
-</td><td width="50%">
-
-Log Out
 
 </td></tr>
 <tr><td width="50%">
