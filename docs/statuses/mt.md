@@ -4,12 +4,12 @@ editLink: false
 
 # mt
 
-##### All missed: 18
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,24 +32,6 @@ Down
 </td></tr>
 <tr><td width="50%">
 
-Log In
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
-Log Out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
 Preview
 
 </td><td width="50%">
@@ -64,15 +46,6 @@ Settings
 </td><td width="50%">
 
 Settings
-
-</td></tr>
-<tr><td width="50%">
-
-Sign In
-
-</td><td width="50%">
-
-Sign In
 
 </td></tr>
 <tr><td width="50%">
@@ -110,7 +83,7 @@ Up
 
 ### php
 
-##### Missing: 9
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -133,24 +106,6 @@ Down
 </td></tr>
 <tr><td width="50%">
 
-log_in
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
-log_out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
 preview
 
 </td><td width="50%">
@@ -165,15 +120,6 @@ settings
 </td><td width="50%">
 
 Settings
-
-</td></tr>
-<tr><td width="50%">
-
-sign_in
-
-</td><td width="50%">
-
-Sign In
 
 </td></tr>
 <tr><td width="50%">
