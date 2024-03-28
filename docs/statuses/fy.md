@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 26
+##### All missed: 20
 
 
 ### json
 
-##### Missing: 13
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -64,33 +64,6 @@ Discard
 </td><td width="50%">
 
 Discard
-
-</td></tr>
-<tr><td width="50%">
-
-Log In
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
-Log Out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
-Sign In
-
-</td><td width="50%">
-
-Sign In
 
 </td></tr>
 <tr><td width="50%">
@@ -146,7 +119,7 @@ Update :name
 
 ### php
 
-##### Missing: 13
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -196,24 +169,6 @@ Discard
 </td></tr>
 <tr><td width="50%">
 
-log_in
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
-log_out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
 named.add
 
 </td><td width="50%">
@@ -228,15 +183,6 @@ named.update
 </td><td width="50%">
 
 Update :name
-
-</td></tr>
-<tr><td width="50%">
-
-sign_in
-
-</td><td width="50%">
-
-Sign In
 
 </td></tr>
 <tr><td width="50%">
