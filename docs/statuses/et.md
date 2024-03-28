@@ -4,12 +4,12 @@ editLink: false
 
 # et
 
-##### All missed: 14
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,33 +50,6 @@ Import :name
 </td></tr>
 <tr><td width="50%">
 
-Log In
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
-Log Out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
-Sign In
-
-</td><td width="50%">
-
-Sign In
-
-</td></tr>
-<tr><td width="50%">
-
 Tag
 
 </td><td width="50%">
@@ -92,7 +65,7 @@ Tag
 
 ### php
 
-##### Missing: 7
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -124,38 +97,11 @@ Import
 </td></tr>
 <tr><td width="50%">
 
-log_in
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
-log_out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
 named.import
 
 </td><td width="50%">
 
 Import :name
-
-</td></tr>
-<tr><td width="50%">
-
-sign_in
-
-</td><td width="50%">
-
-Sign In
 
 </td></tr>
 <tr><td width="50%">
