@@ -4,12 +4,12 @@ editLink: false
 
 # gd
 
-##### All missed: 20
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,33 +59,6 @@ Like
 </td></tr>
 <tr><td width="50%">
 
-Log In
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
-Log Out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
-Sign In
-
-</td><td width="50%">
-
-Sign In
-
-</td></tr>
-<tr><td width="50%">
-
 Subscribe
 
 </td><td width="50%">
@@ -119,7 +92,7 @@ Unpack
 
 ### php
 
-##### Missing: 10
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -165,33 +138,6 @@ like
 </td><td width="50%">
 
 Like
-
-</td></tr>
-<tr><td width="50%">
-
-log_in
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
-log_out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
-sign_in
-
-</td><td width="50%">
-
-Sign In
 
 </td></tr>
 <tr><td width="50%">
