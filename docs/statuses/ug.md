@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 28
+##### All missed: 22
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -77,24 +77,6 @@ Load
 </td></tr>
 <tr><td width="50%">
 
-Log In
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
-Log Out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
 New :name
 
 </td><td width="50%">
@@ -109,15 +91,6 @@ Show
 </td><td width="50%">
 
 Show
-
-</td></tr>
-<tr><td width="50%">
-
-Sign In
-
-</td><td width="50%">
-
-Sign In
 
 </td></tr>
 <tr><td width="50%">
@@ -155,7 +128,7 @@ Up
 
 ### php
 
-##### Missing: 14
+##### Missing: 11
 
 <table width="100%">
 <tr><th width="50%">
@@ -205,24 +178,6 @@ Load
 </td></tr>
 <tr><td width="50%">
 
-log_in
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
-log_out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
 named.edit
 
 </td><td width="50%">
@@ -255,15 +210,6 @@ show
 </td><td width="50%">
 
 Show
-
-</td></tr>
-<tr><td width="50%">
-
-sign_in
-
-</td><td width="50%">
-
-Sign In
 
 </td></tr>
 <tr><td width="50%">
