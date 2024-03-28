@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 98
+##### All missed: 94
 
 
 ### json
 
-##### Missing: 49
+##### Missing: 47
 
 <table width="100%">
 <tr><th width="50%">
@@ -284,15 +284,6 @@ Log In
 </td></tr>
 <tr><td width="50%">
 
-Log Out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
 New
 
 </td><td width="50%">
@@ -352,15 +343,6 @@ Show
 </td><td width="50%">
 
 Show
-
-</td></tr>
-<tr><td width="50%">
-
-Sign In
-
-</td><td width="50%">
-
-Sign In
 
 </td></tr>
 <tr><td width="50%">
@@ -470,7 +452,7 @@ View
 
 ### php
 
-##### Missing: 49
+##### Missing: 47
 
 <table width="100%">
 <tr><th width="50%">
@@ -718,15 +700,6 @@ Log In
 </td></tr>
 <tr><td width="50%">
 
-log_out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
 named.delete
 
 </td><td width="50%">
@@ -822,15 +795,6 @@ show
 </td><td width="50%">
 
 Show
-
-</td></tr>
-<tr><td width="50%">
-
-sign_in
-
-</td><td width="50%">
-
-Sign In
 
 </td></tr>
 <tr><td width="50%">
