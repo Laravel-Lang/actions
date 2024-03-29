@@ -4,12 +4,12 @@ editLink: false
 
 # ky
 
-##### All missed: 20
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,38 +50,11 @@ Open
 </td></tr>
 <tr><td width="50%">
 
-Record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
 Show
 
 </td><td width="50%">
 
 Show
-
-</td></tr>
-<tr><td width="50%">
-
-Start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-Stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 <tr><td width="50%">
@@ -119,7 +92,7 @@ Translate It
 
 ### php
 
-##### Missing: 10
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -160,38 +133,11 @@ Open
 </td></tr>
 <tr><td width="50%">
 
-record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
 show
 
 </td><td width="50%">
 
 Show
-
-</td></tr>
-<tr><td width="50%">
-
-start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 <tr><td width="50%">

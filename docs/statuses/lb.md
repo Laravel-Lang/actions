@@ -4,12 +4,12 @@ editLink: false
 
 # lb
 
-##### All missed: 36
+##### All missed: 32
 
 
 ### json
 
-##### Missing: 18
+##### Missing: 16
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Admin
 </td></tr>
 <tr><td width="50%">
 
-Associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
 Connect
 
 </td><td width="50%">
@@ -100,15 +91,6 @@ Import :name
 </td><td width="50%">
 
 Import :name
-
-</td></tr>
-<tr><td width="50%">
-
-Record
-
-</td><td width="50%">
-
-Record
 
 </td></tr>
 <tr><td width="50%">
@@ -191,7 +173,7 @@ Update :name
 
 ### php
 
-##### Missing: 18
+##### Missing: 16
 
 <table width="100%">
 <tr><th width="50%">
@@ -210,15 +192,6 @@ admin
 </td><td width="50%">
 
 Admin
-
-</td></tr>
-<tr><td width="50%">
-
-associate
-
-</td><td width="50%">
-
-Associate
 
 </td></tr>
 <tr><td width="50%">
@@ -300,15 +273,6 @@ named.update
 </td><td width="50%">
 
 Update :name
-
-</td></tr>
-<tr><td width="50%">
-
-record
-
-</td><td width="50%">
-
-Record
 
 </td></tr>
 <tr><td width="50%">
