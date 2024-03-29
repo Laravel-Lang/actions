@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 13
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,38 +32,11 @@ Admin
 </td></tr>
 <tr><td width="50%">
 
-Associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
 Export
 
 </td><td width="50%">
 
 Export
-
-</td></tr>
-<tr><td width="50%">
-
-Record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
-Start
-
-</td><td width="50%">
-
-Start
 
 </td></tr>
 <tr><td width="50%">
@@ -83,7 +56,7 @@ Stop
 
 ### php
 
-##### Missing: 7
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -106,38 +79,11 @@ Admin
 </td></tr>
 <tr><td width="50%">
 
-associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
 export
 
 </td><td width="50%">
 
 Export
-
-</td></tr>
-<tr><td width="50%">
-
-record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
-start
-
-</td><td width="50%">
-
-Start
 
 </td></tr>
 <tr><td width="50%">
