@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 30
+##### All missed: 26
 
 
 ### json
 
-##### Missing: 15
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,24 +113,6 @@ Show
 </td></tr>
 <tr><td width="50%">
 
-Start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-Stop
-
-</td><td width="50%">
-
-Stop
-
-</td></tr>
-<tr><td width="50%">
-
 Switch
 
 </td><td width="50%">
@@ -164,7 +146,7 @@ Up
 
 ### php
 
-##### Missing: 15
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -264,24 +246,6 @@ show
 </td><td width="50%">
 
 Show
-
-</td></tr>
-<tr><td width="50%">
-
-start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 <tr><td width="50%">
