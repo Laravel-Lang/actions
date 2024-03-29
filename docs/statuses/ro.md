@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 10
+##### All missed: 18
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,6 +41,15 @@ Admin
 </td></tr>
 <tr><td width="50%">
 
+Associate
+
+</td><td width="50%">
+
+Associate
+
+</td></tr>
+<tr><td width="50%">
+
 Export
 
 </td><td width="50%">
@@ -64,6 +73,33 @@ Import :name
 </td><td width="50%">
 
 Import :name
+
+</td></tr>
+<tr><td width="50%">
+
+Record
+
+</td><td width="50%">
+
+Record
+
+</td></tr>
+<tr><td width="50%">
+
+Start
+
+</td><td width="50%">
+
+Start
+
+</td></tr>
+<tr><td width="50%">
+
+Stop
+
+</td><td width="50%">
+
+Stop
 
 </td></tr>
 </table>
@@ -74,7 +110,7 @@ Import :name
 
 ### php
 
-##### Missing: 5
+##### Missing: 9
 
 <table width="100%">
 <tr><th width="50%">
@@ -106,6 +142,15 @@ Admin
 </td></tr>
 <tr><td width="50%">
 
+associate
+
+</td><td width="50%">
+
+Associate
+
+</td></tr>
+<tr><td width="50%">
+
 export
 
 </td><td width="50%">
@@ -129,6 +174,33 @@ named.import
 </td><td width="50%">
 
 Import :name
+
+</td></tr>
+<tr><td width="50%">
+
+record
+
+</td><td width="50%">
+
+Record
+
+</td></tr>
+<tr><td width="50%">
+
+start
+
+</td><td width="50%">
+
+Start
+
+</td></tr>
+<tr><td width="50%">
+
+stop
+
+</td><td width="50%">
+
+Stop
 
 </td></tr>
 </table>

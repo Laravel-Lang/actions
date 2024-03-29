@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 22
+##### All missed: 30
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,6 +23,15 @@ Value
 </th></tr>
 <tr><td width="50%">
 
+Associate
+
+</td><td width="50%">
+
+Associate
+
+</td></tr>
+<tr><td width="50%">
+
 Attach
 
 </td><td width="50%">
@@ -86,11 +95,38 @@ New :name
 </td></tr>
 <tr><td width="50%">
 
+Record
+
+</td><td width="50%">
+
+Record
+
+</td></tr>
+<tr><td width="50%">
+
 Show
 
 </td><td width="50%">
 
 Show
+
+</td></tr>
+<tr><td width="50%">
+
+Start
+
+</td><td width="50%">
+
+Start
+
+</td></tr>
+<tr><td width="50%">
+
+Stop
+
+</td><td width="50%">
+
+Stop
 
 </td></tr>
 <tr><td width="50%">
@@ -128,7 +164,7 @@ Up
 
 ### php
 
-##### Missing: 11
+##### Missing: 15
 
 <table width="100%">
 <tr><th width="50%">
@@ -140,6 +176,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+associate
+
+</td><td width="50%">
+
+Associate
+
+</td></tr>
 <tr><td width="50%">
 
 attach
@@ -205,11 +250,38 @@ New :name
 </td></tr>
 <tr><td width="50%">
 
+record
+
+</td><td width="50%">
+
+Record
+
+</td></tr>
+<tr><td width="50%">
+
 show
 
 </td><td width="50%">
 
 Show
+
+</td></tr>
+<tr><td width="50%">
+
+start
+
+</td><td width="50%">
+
+Start
+
+</td></tr>
+<tr><td width="50%">
+
+stop
+
+</td><td width="50%">
+
+Stop
 
 </td></tr>
 <tr><td width="50%">
