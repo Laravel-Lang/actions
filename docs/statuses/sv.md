@@ -4,12 +4,12 @@ editLink: false
 
 # sv
 
-##### All missed: 10
+##### All missed: 4
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,24 +23,6 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
-Record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
 Show
 
 </td><td width="50%">
@@ -55,15 +37,6 @@ Start
 </td><td width="50%">
 
 Start
-
-</td></tr>
-<tr><td width="50%">
-
-Stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 </table>
@@ -74,7 +47,7 @@ Stop
 
 ### php
 
-##### Missing: 5
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -86,24 +59,6 @@ Key
 Value
 
 </th></tr>
-<tr><td width="50%">
-
-associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
-record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
 <tr><td width="50%">
 
 show
@@ -120,15 +75,6 @@ start
 </td><td width="50%">
 
 Start
-
-</td></tr>
-<tr><td width="50%">
-
-stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 </table>
