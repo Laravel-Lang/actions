@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 18
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 9
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,15 +50,6 @@ Archive
 </td></tr>
 <tr><td width="50%">
 
-Associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
 Image
 
 </td><td width="50%">
@@ -73,33 +64,6 @@ Introduction
 </td><td width="50%">
 
 Introduction
-
-</td></tr>
-<tr><td width="50%">
-
-Record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
-Start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-Stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 </table>
@@ -110,7 +74,7 @@ Stop
 
 ### php
 
-##### Missing: 9
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -151,15 +115,6 @@ Archive
 </td></tr>
 <tr><td width="50%">
 
-associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
 image
 
 </td><td width="50%">
@@ -174,33 +129,6 @@ introduction
 </td><td width="50%">
 
 Introduction
-
-</td></tr>
-<tr><td width="50%">
-
-record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
-start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 </table>
