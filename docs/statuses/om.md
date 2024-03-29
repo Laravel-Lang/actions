@@ -4,12 +4,12 @@ editLink: false
 
 # om
 
-##### All missed: 16
+##### All missed: 8
 
 
 ### json
 
-##### Missing: 8
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Admin
 </td></tr>
 <tr><td width="50%">
 
-Associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
 Log Out
 
 </td><td width="50%">
@@ -50,38 +41,11 @@ Log Out
 </td></tr>
 <tr><td width="50%">
 
-Record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
 Sign In
 
 </td><td width="50%">
 
 Sign In
-
-</td></tr>
-<tr><td width="50%">
-
-Start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-Stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 <tr><td width="50%">
@@ -101,7 +65,7 @@ Tags
 
 ### php
 
-##### Missing: 8
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -124,15 +88,6 @@ Admin
 </td></tr>
 <tr><td width="50%">
 
-associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
 log_out
 
 </td><td width="50%">
@@ -142,38 +97,11 @@ Log Out
 </td></tr>
 <tr><td width="50%">
 
-record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
 sign_in
 
 </td><td width="50%">
 
 Sign In
-
-</td></tr>
-<tr><td width="50%">
-
-start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 <tr><td width="50%">
