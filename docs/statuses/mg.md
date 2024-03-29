@@ -4,12 +4,12 @@ editLink: false
 
 # mg
 
-##### All missed: 32
+##### All missed: 26
 
 
 ### json
 
-##### Missing: 16
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,15 +41,6 @@ Admin
 </td></tr>
 <tr><td width="50%">
 
-Associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
 Connect
 
 </td><td width="50%">
@@ -118,24 +109,6 @@ Select All
 </td><td width="50%">
 
 Select All
-
-</td></tr>
-<tr><td width="50%">
-
-Start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-Stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 <tr><td width="50%">
@@ -173,7 +146,7 @@ View :name
 
 ### php
 
-##### Missing: 16
+##### Missing: 13
 
 <table width="100%">
 <tr><th width="50%">
@@ -201,15 +174,6 @@ admin
 </td><td width="50%">
 
 Admin
-
-</td></tr>
-<tr><td width="50%">
-
-associate
-
-</td><td width="50%">
-
-Associate
 
 </td></tr>
 <tr><td width="50%">
@@ -291,24 +255,6 @@ select_all
 </td><td width="50%">
 
 Select All
-
-</td></tr>
-<tr><td width="50%">
-
-start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 <tr><td width="50%">
