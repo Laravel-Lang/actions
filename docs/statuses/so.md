@@ -4,12 +4,12 @@ editLink: false
 
 # so
 
-##### All missed: 14
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,42 +28,6 @@ Admin
 </td><td width="50%">
 
 Admin
-
-</td></tr>
-<tr><td width="50%">
-
-Associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
-Record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
-Start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-Stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 <tr><td width="50%">
@@ -92,7 +56,7 @@ Tags
 
 ### php
 
-##### Missing: 7
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -111,42 +75,6 @@ admin
 </td><td width="50%">
 
 Admin
-
-</td></tr>
-<tr><td width="50%">
-
-associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
-record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
-start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 <tr><td width="50%">
