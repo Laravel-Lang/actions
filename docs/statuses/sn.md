@@ -4,12 +4,12 @@ editLink: false
 
 # sn
 
-##### All missed: 102
+##### All missed: 96
 
 
 ### json
 
-##### Missing: 51
+##### Missing: 48
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,15 +41,6 @@ Archive
 </td></tr>
 <tr><td width="50%">
 
-Associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
 Browse
 
 </td><td width="50%">
@@ -370,24 +361,6 @@ Solve
 </td><td width="50%">
 
 Solve
-
-</td></tr>
-<tr><td width="50%">
-
-Start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-Stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 <tr><td width="50%">
@@ -488,7 +461,7 @@ View
 
 ### php
 
-##### Missing: 51
+##### Missing: 48
 
 <table width="100%">
 <tr><th width="50%">
@@ -516,15 +489,6 @@ archive
 </td><td width="50%">
 
 Archive
-
-</td></tr>
-<tr><td width="50%">
-
-associate
-
-</td><td width="50%">
-
-Associate
 
 </td></tr>
 <tr><td width="50%">
@@ -858,24 +822,6 @@ solve
 </td><td width="50%">
 
 Solve
-
-</td></tr>
-<tr><td width="50%">
-
-start
-
-</td><td width="50%">
-
-Start
-
-</td></tr>
-<tr><td width="50%">
-
-stop
-
-</td><td width="50%">
-
-Stop
 
 </td></tr>
 <tr><td width="50%">
