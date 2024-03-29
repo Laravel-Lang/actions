@@ -4,12 +4,12 @@ editLink: false
 
 # cs
 
-##### All missed: 14
+##### All missed: 10
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,15 +32,6 @@ Admin
 </td></tr>
 <tr><td width="50%">
 
-Associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
 Import
 
 </td><td width="50%">
@@ -55,15 +46,6 @@ Import :name
 </td><td width="50%">
 
 Import :name
-
-</td></tr>
-<tr><td width="50%">
-
-Record
-
-</td><td width="50%">
-
-Record
 
 </td></tr>
 <tr><td width="50%">
@@ -92,7 +74,7 @@ Stop
 
 ### php
 
-##### Missing: 7
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -115,15 +97,6 @@ Admin
 </td></tr>
 <tr><td width="50%">
 
-associate
-
-</td><td width="50%">
-
-Associate
-
-</td></tr>
-<tr><td width="50%">
-
 import
 
 </td><td width="50%">
@@ -138,15 +111,6 @@ named.import
 </td><td width="50%">
 
 Import :name
-
-</td></tr>
-<tr><td width="50%">
-
-record
-
-</td><td width="50%">
-
-Record
 
 </td></tr>
 <tr><td width="50%">
