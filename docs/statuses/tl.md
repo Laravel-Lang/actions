@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 12
+##### All missed: 20
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,11 +41,47 @@ Archive
 </td></tr>
 <tr><td width="50%">
 
+Associate
+
+</td><td width="50%">
+
+Associate
+
+</td></tr>
+<tr><td width="50%">
+
 Log Out
 
 </td><td width="50%">
 
 Log Out
+
+</td></tr>
+<tr><td width="50%">
+
+Record
+
+</td><td width="50%">
+
+Record
+
+</td></tr>
+<tr><td width="50%">
+
+Start
+
+</td><td width="50%">
+
+Start
+
+</td></tr>
+<tr><td width="50%">
+
+Stop
+
+</td><td width="50%">
+
+Stop
 
 </td></tr>
 <tr><td width="50%">
@@ -83,7 +119,7 @@ Update :name
 
 ### php
 
-##### Missing: 6
+##### Missing: 10
 
 <table width="100%">
 <tr><th width="50%">
@@ -115,6 +151,15 @@ Archive
 </td></tr>
 <tr><td width="50%">
 
+associate
+
+</td><td width="50%">
+
+Associate
+
+</td></tr>
+<tr><td width="50%">
+
 log_out
 
 </td><td width="50%">
@@ -129,6 +174,33 @@ named.update
 </td><td width="50%">
 
 Update :name
+
+</td></tr>
+<tr><td width="50%">
+
+record
+
+</td><td width="50%">
+
+Record
+
+</td></tr>
+<tr><td width="50%">
+
+start
+
+</td><td width="50%">
+
+Start
+
+</td></tr>
+<tr><td width="50%">
+
+stop
+
+</td><td width="50%">
+
+Stop
 
 </td></tr>
 <tr><td width="50%">

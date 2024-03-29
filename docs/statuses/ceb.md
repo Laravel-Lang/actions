@@ -4,12 +4,12 @@ editLink: false
 
 # ceb
 
-##### All missed: 28
+##### All missed: 36
 
 
 ### json
 
-##### Missing: 14
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,6 +41,15 @@ Archive
 </td></tr>
 <tr><td width="50%">
 
+Associate
+
+</td><td width="50%">
+
+Associate
+
+</td></tr>
+<tr><td width="50%">
+
 Duplicate
 
 </td><td width="50%">
@@ -104,11 +113,38 @@ Preview
 </td></tr>
 <tr><td width="50%">
 
+Record
+
+</td><td width="50%">
+
+Record
+
+</td></tr>
+<tr><td width="50%">
+
 Sign In
 
 </td><td width="50%">
 
 Sign In
+
+</td></tr>
+<tr><td width="50%">
+
+Start
+
+</td><td width="50%">
+
+Start
+
+</td></tr>
+<tr><td width="50%">
+
+Stop
+
+</td><td width="50%">
+
+Stop
 
 </td></tr>
 <tr><td width="50%">
@@ -155,7 +191,7 @@ Update :name
 
 ### php
 
-##### Missing: 14
+##### Missing: 18
 
 <table width="100%">
 <tr><th width="50%">
@@ -183,6 +219,15 @@ archive
 </td><td width="50%">
 
 Archive
+
+</td></tr>
+<tr><td width="50%">
+
+associate
+
+</td><td width="50%">
+
+Associate
 
 </td></tr>
 <tr><td width="50%">
@@ -259,11 +304,38 @@ Preview
 </td></tr>
 <tr><td width="50%">
 
+record
+
+</td><td width="50%">
+
+Record
+
+</td></tr>
+<tr><td width="50%">
+
 sign_in
 
 </td><td width="50%">
 
 Sign In
+
+</td></tr>
+<tr><td width="50%">
+
+start
+
+</td><td width="50%">
+
+Start
+
+</td></tr>
+<tr><td width="50%">
+
+stop
+
+</td><td width="50%">
+
+Stop
 
 </td></tr>
 <tr><td width="50%">

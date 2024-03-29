@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 20
+##### All missed: 28
 
 
 ### json
 
-##### Missing: 10
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,6 +50,15 @@ Admin
 </td></tr>
 <tr><td width="50%">
 
+Associate
+
+</td><td width="50%">
+
+Associate
+
+</td></tr>
+<tr><td width="50%">
+
 Details
 
 </td><td width="50%">
@@ -64,6 +73,33 @@ Discard
 </td><td width="50%">
 
 Discard
+
+</td></tr>
+<tr><td width="50%">
+
+Record
+
+</td><td width="50%">
+
+Record
+
+</td></tr>
+<tr><td width="50%">
+
+Start
+
+</td><td width="50%">
+
+Start
+
+</td></tr>
+<tr><td width="50%">
+
+Stop
+
+</td><td width="50%">
+
+Stop
 
 </td></tr>
 <tr><td width="50%">
@@ -119,7 +155,7 @@ Update :name
 
 ### php
 
-##### Missing: 10
+##### Missing: 14
 
 <table width="100%">
 <tr><th width="50%">
@@ -147,6 +183,15 @@ admin
 </td><td width="50%">
 
 Admin
+
+</td></tr>
+<tr><td width="50%">
+
+associate
+
+</td><td width="50%">
+
+Associate
 
 </td></tr>
 <tr><td width="50%">
@@ -183,6 +228,33 @@ named.update
 </td><td width="50%">
 
 Update :name
+
+</td></tr>
+<tr><td width="50%">
+
+record
+
+</td><td width="50%">
+
+Record
+
+</td></tr>
+<tr><td width="50%">
+
+start
+
+</td><td width="50%">
+
+Start
+
+</td></tr>
+<tr><td width="50%">
+
+stop
+
+</td><td width="50%">
+
+Stop
 
 </td></tr>
 <tr><td width="50%">
