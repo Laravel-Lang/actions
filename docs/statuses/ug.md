@@ -4,12 +4,12 @@ editLink: false
 
 # ug
 
-##### All missed: 26
+##### All missed: 24
 
 
 ### json
 
-##### Missing: 13
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -95,15 +95,6 @@ New :name
 </td></tr>
 <tr><td width="50%">
 
-Record
-
-</td><td width="50%">
-
-Record
-
-</td></tr>
-<tr><td width="50%">
-
 Show
 
 </td><td width="50%">
@@ -146,7 +137,7 @@ Up
 
 ### php
 
-##### Missing: 13
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -228,15 +219,6 @@ named.new
 </td><td width="50%">
 
 New :name
-
-</td></tr>
-<tr><td width="50%">
-
-record
-
-</td><td width="50%">
-
-Record
 
 </td></tr>
 <tr><td width="50%">
