@@ -57,6 +57,7 @@
     "named.delete": "মুছুন :name",
     "named.duplicate": "সদৃশ: নাম",
     "named.edit": ":name সম্পাদনা করুন",
+    "named.export": "Export :name",
     "named.hide": ":name লুকান",
     "named.import": "আমদানি :name",
     "named.new": "নতুন :name",

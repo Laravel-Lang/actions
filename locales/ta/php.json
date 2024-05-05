@@ -57,6 +57,7 @@
     "named.delete": ":nameஐ நீக்கு",
     "named.duplicate": "நகல்: பெயர்",
     "named.edit": "திருத்து :name",
+    "named.export": "Export :name",
     "named.hide": "மறை :name",
     "named.import": "இறக்குமதி :name",
     "named.new": "புதிய :name",

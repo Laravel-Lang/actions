@@ -57,6 +57,7 @@
     "named.delete": "Vee :name uit",
     "named.duplicate": "Duplikaat: naam",
     "named.edit": "Wysig :name",
+    "named.export": "Export :name",
     "named.hide": "Versteek :name",
     "named.import": "Invoer :name",
     "named.new": "Nuut :name",

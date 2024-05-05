@@ -57,6 +57,7 @@
     "named.delete": ":nameны бетерегез",
     "named.duplicate": "Күчермә: исем",
     "named.edit": ":name үзгәртү",
+    "named.export": "Export :name",
     "named.hide": ":name яшерегез",
     "named.import": "Импорт :name",
     "named.new": "Яңа :name",

@@ -57,6 +57,7 @@
     "named.delete": ":name ਨੂੰ ਮਿਟਾਓ",
     "named.duplicate": "ਡੁਪਲੀਕੇਟ: ਨਾਮ",
     "named.edit": ":name ਦਾ ਸੰਪਾਦਨ ਕਰੋ",
+    "named.export": "Export :name",
     "named.hide": ":name ਨੂੰ ਲੁਕਾਓ",
     "named.import": ":name ਆਯਾਤ ਕਰੋ",
     "named.new": "ਨਵਾਂ :name",

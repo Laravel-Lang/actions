@@ -57,6 +57,7 @@
     "named.delete": "ಅಳಿಸಿ :name",
     "named.duplicate": "ನಕಲು: ಹೆಸರು",
     "named.edit": "ಸಂಪಾದಿಸಿ :name",
+    "named.export": "Export :name",
     "named.hide": "ಮರೆಮಾಡಿ :name",
     "named.import": "ಆಮದು :name",
     "named.new": "ಹೊಸ :name",

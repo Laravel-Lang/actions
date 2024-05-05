@@ -57,6 +57,7 @@
     "named.delete": "Eyða :name",
     "named.duplicate": "Afrit: nafn",
     "named.edit": "Breyta :name",
+    "named.export": "Export :name",
     "named.hide": "Fela :name",
     "named.import": "Innflutningur :name",
     "named.new": "Nýtt :name",

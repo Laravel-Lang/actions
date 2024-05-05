@@ -57,6 +57,7 @@
     "named.delete": ":name ni o'chirish",
     "named.duplicate": "Dublikat: ism",
     "named.edit": "Tahrirlash :name",
+    "named.export": "Export :name",
     "named.hide": ":name ni yashirish",
     "named.import": "Import :name",
     "named.new": "Yangi :name",

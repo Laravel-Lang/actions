@@ -57,6 +57,7 @@
     "named.delete": "Pa :name",
     "named.duplicate": "Àdáwòkọ: orukọ",
     "named.edit": "Ṣatunkọ :name",
+    "named.export": "Export :name",
     "named.hide": "Tọju :name",
     "named.import": "gbe wọle :name",
     "named.new": "Tuntun :name",

@@ -57,6 +57,7 @@
     "named.delete": "Fshi :name",
     "named.duplicate": "Dublikatë: emri",
     "named.edit": "Redakto :name",
+    "named.export": "Export :name",
     "named.hide": "Fshih :name",
     "named.import": "Importi :name",
     "named.new": ":name të reja",

@@ -57,6 +57,7 @@
     "named.delete": "Pupus :name",
     "named.duplicate": "Duplikat: ngaran",
     "named.edit": "Édit :name",
+    "named.export": "Export :name",
     "named.hide": "Sumputkeun :name",
     "named.import": "Impor :name",
     "named.new": "Anyar :name",

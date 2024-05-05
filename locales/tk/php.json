@@ -57,6 +57,7 @@
     "named.delete": ":name pozuň",
     "named.duplicate": "Göçürme: ady",
     "named.edit": ":name redaktirläň",
+    "named.export": "Export :name",
     "named.hide": ":name gizläň",
     "named.import": ":name import ediň",
     "named.new": "Täze :name",

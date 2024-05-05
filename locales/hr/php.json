@@ -57,6 +57,7 @@
     "named.delete": "Izbriši :name",
     "named.duplicate": "Duplikat: ime",
     "named.edit": "Uredi :name",
+    "named.export": "Export :name",
     "named.hide": "Sakrij :name",
     "named.import": "Uvoz :name",
     "named.new": "Novo :name",

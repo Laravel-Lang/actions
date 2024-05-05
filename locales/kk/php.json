@@ -57,6 +57,7 @@
     "named.delete": ":name жою",
     "named.duplicate": "Көшірме: аты",
     "named.edit": "Өңдеу :name",
+    "named.export": "Export :name",
     "named.hide": ":name жасыру",
     "named.import": "Импорт :name",
     "named.new": "Жаңа :name",

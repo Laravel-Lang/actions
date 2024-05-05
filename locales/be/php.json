@@ -57,6 +57,7 @@
     "named.delete": "Выдаліць :name",
     "named.duplicate": "Дублікат: імя",
     "named.edit": "Рэдагаваць :name",
+    "named.export": "Export :name",
     "named.hide": "Схаваць :name",
     "named.import": "Імпарт :name",
     "named.new": "Новы :name",

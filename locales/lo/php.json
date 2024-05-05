@@ -57,6 +57,7 @@
     "named.delete": "ລົບ :name",
     "named.duplicate": "ຊໍ້າກັນ: ຊື່",
     "named.edit": "ແກ້​ໄຂ :name",
+    "named.export": "Export :name",
     "named.hide": "ເຊື່ອງ :name",
     "named.import": "ນຳເຂົ້າ :name",
     "named.new": "ໃໝ່ :name",

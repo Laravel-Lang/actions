@@ -57,6 +57,7 @@
     "named.delete": "Sguab às :name",
     "named.duplicate": "Duplicate: ainm",
     "named.edit": "Deasaich :name",
+    "named.export": "Export :name",
     "named.hide": "Falaich :name",
     "named.import": "Cuir a-steach :name",
     "named.new": "Ùr :name",

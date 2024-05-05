@@ -57,6 +57,7 @@
     "named.delete": ":name 삭제",
     "named.duplicate": "중복: 이름",
     "named.edit": "편집 :name",
+    "named.export": "Export :name",
     "named.hide": ":name 숨기기",
     "named.import": "수입 :name",
     "named.new": "새로운 :name",

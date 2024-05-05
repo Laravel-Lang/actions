@@ -57,6 +57,7 @@
     "named.delete": ":name silin",
     "named.duplicate": "Dublikat: ad",
     "named.edit": "Redaktə :name",
+    "named.export": "Export :name",
     "named.hide": ":name gizlət",
     "named.import": "İdxal :name",
     "named.new": "Yeni :name",

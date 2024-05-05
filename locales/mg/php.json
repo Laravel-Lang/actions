@@ -57,6 +57,7 @@
     "named.delete": "Fafao :name",
     "named.duplicate": "Dika mitovy: anarana",
     "named.edit": "Ahitsio :name",
+    "named.export": "Export :name",
     "named.hide": "Afeno :name",
     "named.import": "Import :name",
     "named.new": "Vaovao :name",

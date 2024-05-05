@@ -57,6 +57,7 @@
     "named.delete": "Hapus :name",
     "named.duplicate": "Duplikat: nama",
     "named.edit": "Sunting :name",
+    "named.export": "Export :name",
     "named.hide": "Sembunyikan :name",
     "named.import": "Impor :name",
     "named.new": "Baru :name",

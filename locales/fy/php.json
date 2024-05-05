@@ -57,6 +57,7 @@
     "named.delete": "Wiskje :name",
     "named.duplicate": "Duplikaat: namme",
     "named.edit": "Bewurkje :name",
+    "named.export": "Export :name",
     "named.hide": "Ferbergje :name",
     "named.import": "Ymportearje :name",
     "named.new": "nij :name",

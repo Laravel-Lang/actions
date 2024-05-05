@@ -57,6 +57,7 @@
     "named.delete": "हटा दिहल जाव :name",
     "named.duplicate": "डुप्लिकेट: नाम के बा",
     "named.edit": "संपादन :name के बा",
+    "named.export": "Export :name",
     "named.hide": "छिपावल :name के बा",
     "named.import": "आयात :name के बा",
     "named.new": "नया :name के बा",

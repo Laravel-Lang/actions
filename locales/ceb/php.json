@@ -57,6 +57,7 @@
     "named.delete": "Pagtangtang :name",
     "named.duplicate": "Duplicate: ngalan",
     "named.edit": "Usba :name",
+    "named.export": "Export :name",
     "named.hide": "Itago :name",
     "named.import": "Import :name",
     "named.new": "Bag-o :name",

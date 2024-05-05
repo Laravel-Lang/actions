@@ -57,6 +57,7 @@
     "named.delete": "Popa :name no",
     "named.duplicate": "Duplicate: din",
     "named.edit": "Nsiesiei :name",
+    "named.export": "Export :name",
     "named.hide": "Fa sie :name",
     "named.import": "Nneɛma a wɔde fi amannɔne ba :name",
     "named.new": "Foforo :name",

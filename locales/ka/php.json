@@ -57,6 +57,7 @@
     "named.delete": "წაშალე :name",
     "named.duplicate": "დუბლიკატი: სახელი",
     "named.edit": "რედაქტირება :name",
+    "named.export": "Export :name",
     "named.hide": "დამალე :name",
     "named.import": "იმპორტი :name",
     "named.new": "ახალი :name",

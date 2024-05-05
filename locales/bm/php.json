@@ -57,6 +57,7 @@
     "named.delete": "Delete :name. Bamako, Mali",
     "named.duplicate": "Duplicate: tɔgɔ",
     "named.edit": "Ladilikan :namenan",
+    "named.export": "Export :name",
     "named.hide": "Dogo :name la",
     "named.import": "Import :name. Bamako, Mali",
     "named.new": "Kura :name",

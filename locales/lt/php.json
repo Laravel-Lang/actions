@@ -57,6 +57,7 @@
     "named.delete": "Ištrinti :name",
     "named.duplicate": "Dublikatas: vardas",
     "named.edit": "Redaguoti :name",
+    "named.export": "Export :name",
     "named.hide": "Paslėpti :name",
     "named.import": "Importuoti :name",
     "named.new": "Naujas :name",

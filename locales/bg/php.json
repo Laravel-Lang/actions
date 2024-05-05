@@ -57,6 +57,7 @@
     "named.delete": "Изтрий :name",
     "named.duplicate": "Дубликат: име",
     "named.edit": "Редактиране :name",
+    "named.export": "Export :name",
     "named.hide": "Скриване :name",
     "named.import": "Импортиране :name",
     "named.new": "Ново :name",
