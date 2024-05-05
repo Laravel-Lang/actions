@@ -104,6 +104,7 @@ return [
         'create'    => 'Create :name',
         'delete'    => 'Delete :name',
         'edit'      => 'Edit :name',
+        'export'    => 'Export :name',
         'hide'      => 'Hide :name',
         'import'    => 'Import :name',
         'new'       => 'New :name',
