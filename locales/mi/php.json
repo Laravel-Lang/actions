@@ -57,6 +57,7 @@
     "named.delete": "Mukua :name",
     "named.duplicate": "Tārite: ingoa",
     "named.edit": "Whakatika :name",
+    "named.export": "Export :name",
     "named.hide": "Huna :name",
     "named.import": "Kawemai :name",
     "named.new": "Hou :name",

@@ -57,6 +57,7 @@
     "named.delete": "Dzēst :name",
     "named.duplicate": "Dublikāts: vārds",
     "named.edit": "Rediģēt :name",
+    "named.export": "Export :name",
     "named.hide": "Paslēpt :name",
     "named.import": "Importēt :name",
     "named.new": "Jauns :name",

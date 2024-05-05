@@ -57,6 +57,7 @@
     "named.delete": ":name-ро нест кунед",
     "named.duplicate": "Дубликат: ном",
     "named.edit": "Таҳрири :name",
+    "named.export": "Export :name",
     "named.hide": "Пинҳон кардани :name",
     "named.import": "Воридот :name",
     "named.new": "Нав :name",

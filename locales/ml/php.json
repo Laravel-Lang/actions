@@ -57,6 +57,7 @@
     "named.delete": ":name ഇല്ലാതാക്കുക",
     "named.duplicate": "തനിപ്പകർപ്പ്: പേര്",
     "named.edit": "എഡിറ്റ് :name",
+    "named.export": "Export :name",
     "named.hide": ":name മറയ്ക്കുക",
     "named.import": "ഇറക്കുമതി :name",
     "named.new": "പുതിയ :name",

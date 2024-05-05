@@ -57,6 +57,7 @@
     "named.delete": "Okusazaamu :name",
     "named.duplicate": "Okukoppa: erinnya",
     "named.edit": "Edit :name. Okulongoosa :name",
+    "named.export": "Export :name",
     "named.hide": "Kweka :name",
     "named.import": "Okuyingiza ebintu mu ggwanga :name",
     "named.new": "Ebipya :name",

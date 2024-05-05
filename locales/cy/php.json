@@ -57,6 +57,7 @@
     "named.delete": "Dileu :name",
     "named.duplicate": "Dyblyg: enw",
     "named.edit": "Golygu :name",
+    "named.export": "Export :name",
     "named.hide": "Cuddio :name",
     "named.import": "Mewnforio :name",
     "named.new": "Newydd :name",

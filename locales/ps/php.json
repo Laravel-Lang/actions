@@ -57,6 +57,7 @@
     "named.delete": ":name ړنګول",
     "named.duplicate": "نقل: نوم",
     "named.edit": ":name سمون",
+    "named.export": "Export :name",
     "named.hide": ":name پټ کړئ",
     "named.import": ":name وارد کړئ",
     "named.new": "نوي :name",

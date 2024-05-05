@@ -57,6 +57,7 @@
     "named.delete": "Poista :name",
     "named.duplicate": "Kopio: nimi",
     "named.edit": "Muokkaa :name",
+    "named.export": "Export :name",
     "named.hide": "Piilota :name",
     "named.import": "Tuo :name",
     "named.new": "Uusi :name",

@@ -57,6 +57,7 @@
     "named.delete": "తొలగించు :name",
     "named.duplicate": "నకిలీ: పేరు",
     "named.edit": "సవరించు :name",
+    "named.export": "Export :name",
     "named.hide": "దాచు :name",
     "named.import": "దిగుమతి :name",
     "named.new": "కొత్త :name",

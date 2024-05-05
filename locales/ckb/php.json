@@ -57,6 +57,7 @@
     "named.delete": "سڕینەوە :name",
     "named.duplicate": "دووبارەکردنەوە: ناو",
     "named.edit": "دەستکاری :name",
+    "named.export": "Export :name",
     "named.hide": "شاردنەوە :name",
     "named.import": "هاوردەکردن :name",
     "named.new": "نوێ :name",

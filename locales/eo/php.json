@@ -57,6 +57,7 @@
     "named.delete": "Forigi :name",
     "named.duplicate": "Duplikato: nomo",
     "named.edit": "Redakto :name",
+    "named.export": "Export :name",
     "named.hide": "Kaŝi :name",
     "named.import": "Importo :name",
     "named.new": "Nova :name",

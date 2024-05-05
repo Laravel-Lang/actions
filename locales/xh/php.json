@@ -57,6 +57,7 @@
     "named.delete": "Cima u-:name",
     "named.duplicate": "Phinda kabini: igama",
     "named.edit": "Hlela :name",
+    "named.export": "Export :name",
     "named.hide": "Fihla u-:name",
     "named.import": "Thatha ngaphandle :name",
     "named.new": "Entsha :name",

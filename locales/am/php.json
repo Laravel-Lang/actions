@@ -57,6 +57,7 @@
     "named.delete": "ሰርዝ :name",
     "named.duplicate": "የተባዛ፡ ስም",
     "named.edit": "አርትዕ :name",
+    "named.export": "Export :name",
     "named.hide": "ደብቅ :name",
     "named.import": "አስመጣ :name",
     "named.new": "አዲስ :name",

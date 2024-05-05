@@ -57,6 +57,7 @@
     "named.delete": "Siba :name",
     "named.duplicate": "Kwigana: izina",
     "named.edit": "Hindura :name",
+    "named.export": "Export :name",
     "named.hide": "Hisha :name",
     "named.import": "Kuzana :name",
     "named.new": "Gishya :name",

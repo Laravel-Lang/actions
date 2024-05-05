@@ -57,6 +57,7 @@
     "named.delete": "Ta bort :name",
     "named.duplicate": "Dubblett: namn",
     "named.edit": "Redigera :name",
+    "named.export": "Export :name",
     "named.hide": "Göm :name",
     "named.import": "Importera :name",
     "named.new": "Ny :name",

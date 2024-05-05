@@ -57,6 +57,7 @@
     "named.delete": "Smazat :name",
     "named.duplicate": "Duplikát: jméno",
     "named.edit": "Upravit :name",
+    "named.export": "Export :name",
     "named.hide": "Skrýt :name",
     "named.import": "Import :name",
     "named.new": "Nové :name",

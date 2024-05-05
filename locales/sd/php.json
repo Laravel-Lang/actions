@@ -57,6 +57,7 @@
     "named.delete": "حذف ڪريو :name",
     "named.duplicate": "نقل: نالو",
     "named.edit": "تبديل ڪريو :name",
+    "named.export": "Export :name",
     "named.hide": "لڪايو :name",
     "named.import": "درآمد ڪريو :name",
     "named.new": "نئون :name",

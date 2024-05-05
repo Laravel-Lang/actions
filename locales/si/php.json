@@ -57,6 +57,7 @@
     "named.delete": ":name මකන්න",
     "named.duplicate": "අනුපිටපත: නම",
     "named.edit": "සංස්කරණය :name",
+    "named.export": "Export :name",
     "named.hide": ":name සඟවන්න",
     "named.import": "ආනයනය :name",
     "named.new": "නව :name",

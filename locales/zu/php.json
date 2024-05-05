@@ -57,6 +57,7 @@
     "named.delete": "Susa u-:name",
     "named.duplicate": "Impinda: igama",
     "named.edit": "Hlela :name",
+    "named.export": "Export :name",
     "named.hide": "Fihla :name",
     "named.import": "Ngenisa :name",
     "named.new": "Okusha okungu-:name",

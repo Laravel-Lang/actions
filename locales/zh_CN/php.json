@@ -57,6 +57,7 @@
     "named.delete": "删除 :name 个",
     "named.duplicate": "重复：名称",
     "named.edit": "编辑:name",
+    "named.export": "Export :name",
     "named.hide": "隐藏 :name",
     "named.import": "进口 :name",
     "named.new": "新 :name",

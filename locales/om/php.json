@@ -57,6 +57,7 @@
     "named.delete": "Haquu :name",
     "named.duplicate": "Dachaa: maqaa",
     "named.edit": "Gulaali :name",
+    "named.export": "Export :name",
     "named.hide": "Dhoksaa :name",
     "named.import": "Galchuu :name",
     "named.new": "Haaraa :name",

@@ -57,6 +57,7 @@
     "named.delete": "מחק :name",
     "named.duplicate": "שכפול: שם",
     "named.edit": "ערוך :name",
+    "named.export": "Export :name",
     "named.hide": "הסתר :name",
     "named.import": "ייבוא ​​:name",
     "named.new": "חדש :name",

@@ -57,6 +57,7 @@
     "named.delete": "Scrios :name",
     "named.duplicate": "Dúblach: ainm",
     "named.edit": "Cuir :name in eagar",
+    "named.export": "Export :name",
     "named.hide": "Folaigh :name",
     "named.import": "Iompórtáil :name",
     "named.new": "Nua :name",

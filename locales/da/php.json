@@ -57,6 +57,7 @@
     "named.delete": "Slet :name",
     "named.duplicate": "Duplikat: navn",
     "named.edit": "Rediger :name",
+    "named.export": "Export :name",
     "named.hide": "Skjul :name",
     "named.import": "Import :name",
     "named.new": "Ny :name",

@@ -57,6 +57,7 @@
     "named.delete": "Ջնջել :name",
     "named.duplicate": "Կրկնօրինակ՝ անուն",
     "named.edit": "Խմբագրել :name",
+    "named.export": "Export :name",
     "named.hide": "Թաքցնել :name",
     "named.import": "Ներմուծում :name",
     "named.new": "Նոր :name",

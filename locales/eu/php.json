@@ -57,6 +57,7 @@
     "named.delete": "Ezabatu :name",
     "named.duplicate": "Bikoiztua: izena",
     "named.edit": "Editatu :name",
+    "named.export": "Export :name",
     "named.hide": "Ezkutatu :name",
     "named.import": "Inportatu :name",
     "named.new": "Berria :name",

@@ -57,6 +57,7 @@
     "named.delete": "Delete :name",
     "named.duplicate": "Duplicate: zita",
     "named.edit": "Edit :name",
+    "named.export": "Export :name",
     "named.hide": "Vigai :name",
     "named.import": "Import :name",
     "named.new": "Nyowani :name",

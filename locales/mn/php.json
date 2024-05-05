@@ -57,6 +57,7 @@
     "named.delete": ":name устгах",
     "named.duplicate": "Давхардсан: нэр",
     "named.edit": "Засвар :name",
+    "named.export": "Export :name",
     "named.hide": ":name нуух",
     "named.import": "Импорт :name",
     "named.new": "Шинэ :name",

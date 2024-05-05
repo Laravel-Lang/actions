@@ -57,6 +57,7 @@
     "named.delete": "Törölje a :name",
     "named.duplicate": "Másodpéldány: név",
     "named.edit": "Szerkesztés :name",
+    "named.export": "Export :name",
     "named.hide": "Elrejtés :name",
     "named.import": "Importálás :name",
     "named.new": "Új :name",

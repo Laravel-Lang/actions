@@ -57,6 +57,7 @@
     "named.delete": "Tanggalin :name",
     "named.duplicate": "Duplicate: pangalan",
     "named.edit": "I-edit :name",
+    "named.export": "Export :name",
     "named.hide": "Itago :name",
     "named.import": "Mag-import :name",
     "named.new": "Bago :name",

@@ -57,6 +57,7 @@
     "named.delete": "Usuń :name",
     "named.duplicate": "Duplikuj :name",
     "named.edit": "Edytuj :name",
+    "named.export": "Export :name",
     "named.hide": "Ukryj :name",
     "named.import": "Importuj :name",
     "named.new": "Nowy :name",

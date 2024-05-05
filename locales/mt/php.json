@@ -57,6 +57,7 @@
     "named.delete": "Ħassar :name",
     "named.duplicate": "Duplikat: isem",
     "named.edit": "Editja :name",
+    "named.export": "Export :name",
     "named.hide": "Aħbi :name",
     "named.import": "Importazzjoni :name",
     "named.new": "Ġdid :name",

@@ -57,6 +57,7 @@
     "named.delete": ":name jêbirin",
     "named.duplicate": "Ducarî: nav",
     "named.edit": "Biguherîne :name",
+    "named.export": "Export :name",
     "named.hide": ":name veşêre",
     "named.import": "Import :name",
     "named.new": "Nû :name",

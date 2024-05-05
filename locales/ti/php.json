@@ -57,6 +57,7 @@
     "named.delete": "ምድምሳስ :name",
     "named.duplicate": "ተደጋጋሚ: ስም",
     "named.edit": "ኣርትዖት :name",
+    "named.export": "Export :name",
     "named.hide": "ሕባእ :name",
     "named.import": "ካብ ወጻኢ ምእታው :name",
     "named.new": "ሓድሽ :name",

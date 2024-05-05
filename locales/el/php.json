@@ -57,6 +57,7 @@
     "named.delete": "Διαγράψτε :name",
     "named.duplicate": "Αντιγραφή :name",
     "named.edit": "Επεξεργασία :name",
+    "named.export": "Export :name",
     "named.hide": "Απόκρυψη :name",
     "named.import": "Εισαγωγή :name",
     "named.new": "Νέο :name",
