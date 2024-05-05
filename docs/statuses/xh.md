@@ -4,12 +4,12 @@ editLink: false
 
 # xh
 
-##### All missed: 4
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -39,6 +39,15 @@ Comment
 Comment
 
 </td></tr>
+<tr><td width="50%">
+
+Export :name
+
+</td><td width="50%">
+
+Export :name
+
+</td></tr>
 </table>
 
 [ [go back](../status.md) | [to top](#) ]
@@ -47,7 +56,7 @@ Comment
 
 ### php
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -75,6 +84,15 @@ comment
 </td><td width="50%">
 
 Comment
+
+</td></tr>
+<tr><td width="50%">
+
+named.export
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 </table>

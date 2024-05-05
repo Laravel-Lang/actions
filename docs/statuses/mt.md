@@ -4,12 +4,12 @@ editLink: false
 
 # mt
 
-##### All missed: 12
+##### All missed: 14
 
 
 ### json
 
-##### Missing: 6
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,15 @@ Down
 </td><td width="50%">
 
 Down
+
+</td></tr>
+<tr><td width="50%">
+
+Export :name
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">
@@ -83,7 +92,7 @@ Up
 
 ### php
 
-##### Missing: 6
+##### Missing: 7
 
 <table width="100%">
 <tr><th width="50%">
@@ -102,6 +111,15 @@ down
 </td><td width="50%">
 
 Down
+
+</td></tr>
+<tr><td width="50%">
+
+named.export
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">

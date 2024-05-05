@@ -4,12 +4,12 @@ editLink: false
 
 # ku
 
-##### All missed: 22
+##### All missed: 24
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -55,6 +55,15 @@ Details
 </td><td width="50%">
 
 Details
+
+</td></tr>
+<tr><td width="50%">
+
+Export :name
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">
@@ -128,7 +137,7 @@ Tags
 
 ### php
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -183,6 +192,15 @@ localize
 </td><td width="50%">
 
 Localize
+
+</td></tr>
+<tr><td width="50%">
+
+named.export
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">

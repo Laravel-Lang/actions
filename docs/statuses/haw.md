@@ -4,12 +4,12 @@ editLink: false
 
 # haw
 
-##### All missed: 10
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -28,6 +28,15 @@ Admin
 </td><td width="50%">
 
 Admin
+
+</td></tr>
+<tr><td width="50%">
+
+Export :name
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">
@@ -74,7 +83,7 @@ Unsubscribe
 
 ### php
 
-##### Missing: 5
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -111,6 +120,15 @@ like
 </td><td width="50%">
 
 Like
+
+</td></tr>
+<tr><td width="50%">
+
+named.export
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">
