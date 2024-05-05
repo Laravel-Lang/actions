@@ -4,12 +4,12 @@ editLink: false
 
 # sv
 
-##### All missed: 4
+##### All missed: 6
 
 
 ### json
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -21,6 +21,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+Export :name
+
+</td><td width="50%">
+
+Export :name
+
+</td></tr>
 <tr><td width="50%">
 
 Show
@@ -47,7 +56,7 @@ Start
 
 ### php
 
-##### Missing: 2
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,6 +68,15 @@ Key
 Value
 
 </th></tr>
+<tr><td width="50%">
+
+named.export
+
+</td><td width="50%">
+
+Export :name
+
+</td></tr>
 <tr><td width="50%">
 
 show

@@ -4,12 +4,12 @@ editLink: false
 
 # fr
 
-##### All missed: 10
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -50,6 +50,15 @@ Archive
 </td></tr>
 <tr><td width="50%">
 
+Export :name
+
+</td><td width="50%">
+
+Export :name
+
+</td></tr>
+<tr><td width="50%">
+
 Image
 
 </td><td width="50%">
@@ -74,7 +83,7 @@ Introduction
 
 ### php
 
-##### Missing: 5
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -129,6 +138,15 @@ introduction
 </td><td width="50%">
 
 Introduction
+
+</td></tr>
+<tr><td width="50%">
+
+named.export
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 </table>

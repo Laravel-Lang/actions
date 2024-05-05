@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 7
+##### All missed: 9
 
 
 ### json
 
-##### Missing: 3
+##### Missing: 4
 
 <table width="100%">
 <tr><th width="50%">
@@ -41,6 +41,15 @@ Export
 </td></tr>
 <tr><td width="50%">
 
+Export :name
+
+</td><td width="50%">
+
+Export :name
+
+</td></tr>
+<tr><td width="50%">
+
 Stop
 
 </td><td width="50%">
@@ -56,7 +65,7 @@ Stop
 
 ### php
 
-##### Missing: 4
+##### Missing: 5
 
 <table width="100%">
 <tr><th width="50%">
@@ -84,6 +93,15 @@ export
 </td><td width="50%">
 
 Export
+
+</td></tr>
+<tr><td width="50%">
+
+named.export
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">

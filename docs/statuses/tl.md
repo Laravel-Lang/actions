@@ -4,12 +4,12 @@ editLink: false
 
 # tl
 
-##### All missed: 14
+##### All missed: 16
 
 
 ### json
 
-##### Missing: 7
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -46,6 +46,15 @@ Associate
 </td><td width="50%">
 
 Associate
+
+</td></tr>
+<tr><td width="50%">
+
+Export :name
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">
@@ -92,7 +101,7 @@ Update :name
 
 ### php
 
-##### Missing: 7
+##### Missing: 8
 
 <table width="100%">
 <tr><th width="50%">
@@ -138,6 +147,15 @@ log_out
 </td><td width="50%">
 
 Log Out
+
+</td></tr>
+<tr><td width="50%">
+
+named.export
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">

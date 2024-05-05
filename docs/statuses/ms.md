@@ -4,12 +4,12 @@ editLink: false
 
 # ms
 
-##### All missed: 10
+##### All missed: 12
 
 
 ### json
 
-##### Missing: 5
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -37,6 +37,15 @@ Edit :name
 </td><td width="50%">
 
 Edit :name
+
+</td></tr>
+<tr><td width="50%">
+
+Export :name
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">
@@ -74,7 +83,7 @@ Tag
 
 ### php
 
-##### Missing: 5
+##### Missing: 6
 
 <table width="100%">
 <tr><th width="50%">
@@ -111,6 +120,15 @@ named.edit
 </td><td width="50%">
 
 Edit :name
+
+</td></tr>
+<tr><td width="50%">
+
+named.export
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">

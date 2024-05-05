@@ -4,12 +4,12 @@ editLink: false
 
 # fy
 
-##### All missed: 22
+##### All missed: 24
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -64,6 +64,15 @@ Discard
 </td><td width="50%">
 
 Discard
+
+</td></tr>
+<tr><td width="50%">
+
+Export :name
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">
@@ -128,7 +137,7 @@ Update :name
 
 ### php
 
-##### Missing: 11
+##### Missing: 12
 
 <table width="100%">
 <tr><th width="50%">
@@ -183,6 +192,15 @@ named.add
 </td><td width="50%">
 
 Add :name
+
+</td></tr>
+<tr><td width="50%">
+
+named.export
+
+</td><td width="50%">
+
+Export :name
 
 </td></tr>
 <tr><td width="50%">
