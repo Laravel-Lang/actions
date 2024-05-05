@@ -57,7 +57,7 @@
     "named.delete": "حذف :name",
     "named.duplicate": "نسخ :name",
     "named.edit": "تعديل :name",
-    "named.export": "Export :name",
+    "named.export": "تصدير :name",
     "named.hide": "إخفاء :name",
     "named.import": "استيراد :name",
     "named.new": "إنشاء :name",
