@@ -59,7 +59,7 @@
     "named.edit": "Редактировать :name",
     "named.export": "Экспортировать :name",
     "named.hide": "Скрыть :name",
-    "named.import": "Испортировать :name",
+    "named.import": "Импорт :name",
     "named.new": "Новый :name",
     "named.restore": "Восстановить :name",
     "named.save": "Сохранить :name",
