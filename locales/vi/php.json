@@ -57,7 +57,7 @@
     "named.delete": "Xóa :name",
     "named.duplicate": "Trùng lặp: tên",
     "named.edit": "Chỉnh sửa :name",
-    "named.export": "Export :name",
+    "named.export": "Xuất khẩu :name",
     "named.hide": "Ẩn :name",
     "named.import": "Nhập khẩu :name",
     "named.new": ":name mới",
