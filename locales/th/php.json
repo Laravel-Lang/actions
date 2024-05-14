@@ -57,7 +57,7 @@
     "named.delete": "ลบ :name",
     "named.duplicate": "ซ้ำ: ชื่อ",
     "named.edit": "แก้ไข :name",
-    "named.export": "Export :name",
+    "named.export": "ส่งออก :name",
     "named.hide": "ซ่อน :name",
     "named.import": "นำเข้า :name",
     "named.new": "ใหม่ :name",
