@@ -8,5 +8,5 @@ use LaravelLang\StatusGeneratorTests\TestCase as BaseTestCase;
 
 class PluginTest extends BaseTestCase
 {
-    protected string $base_path = __DIR__ . '/../';
+    protected string $base_path = __DIR__.'/../';
 }
