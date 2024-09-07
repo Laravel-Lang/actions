@@ -2,6 +2,10 @@
 
 declare(strict_types=1);
 
+/*
+ * 🦋 The code style has been fixed
+ */
+
 namespace LaravelLang\Actions\Plugins;
 
 use LaravelLang\Publisher\Plugins\Plugin;
@@ -12,7 +16,7 @@ class Main extends Plugin
     {
         return [
             'actions.json' => '{locale}.json',
-            'actions.php'  => '{locale}/actions.php',
+            'actions.php' => '{locale}/actions.php',
         ];
     }
 }

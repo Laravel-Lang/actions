@@ -2,6 +2,10 @@
 
 declare(strict_types=1);
 
+/*
+ * 🦋 The code style has been fixed
+ */
+
 namespace LaravelLang\Actions;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
