@@ -12,7 +12,7 @@ class Main extends Plugin
     {
         return [
             'actions.json' => '{locale}.json',
-            'actions.php'  => '{locale}/actions.php',
+            'actions.php' => '{locale}/actions.php',
         ];
     }
 }
