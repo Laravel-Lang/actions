@@ -70,11 +70,11 @@ File
 </td></tr>
 <tr><td width="50%">
 
-named.export
+home
 
 </td><td width="50%">
 
-Export :name
+Home
 
 </td></tr>
 </table>
