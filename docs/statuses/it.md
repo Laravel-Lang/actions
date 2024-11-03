@@ -23,20 +23,20 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Export :name
+File
 
 </td><td width="50%">
 
-Export :name
+File
 
 </td></tr>
 <tr><td width="50%">
 
-File
+Home
 
 </td><td width="50%">
 
-File
+Home
 
 </td></tr>
 </table>
