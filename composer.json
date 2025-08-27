@@ -48,6 +48,7 @@
         "allow-plugins": {
             "dragon-code/codestyler": true,
             "ergebnis/composer-normalize": true,
+            "laravel/pint": true,
             "php-http/discovery": true,
             "symfony/thanks": true
         },
