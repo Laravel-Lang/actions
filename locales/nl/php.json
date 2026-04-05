@@ -51,7 +51,6 @@
     "localize": "Lokaliseren",
     "log_in": "Inloggen",
     "log_out": "Uitloggen",
-
     "named.add": ":Name toevoegen",
     "named.choose": ":Name kiezen",
     "named.create": ":Name aanmaken",
@@ -68,7 +67,6 @@
     "named.show": ":Name tonen",
     "named.update": ":Name bijwerken",
     "named.view": ":Name bekijken",
-
     "new": "Nieuw",
     "no": "Nee",
     "open": "Openen",
@@ -97,12 +95,10 @@
     "switch_to_role": "Wisselen naar rol",
     "tag": "Label",
     "tags": "Labels",
-
     "target_link.blank": "Openen in nieuw venster",
     "target_link.parent": "Openen in bovenliggend frame",
     "target_link.self": "Openen in huidig venster",
     "target_link.top": "Openen in bovenste frame",
-
     "translate": "Vertalen",
     "translate_it": "Vertalen",
     "unpack": "Uitpakken",
