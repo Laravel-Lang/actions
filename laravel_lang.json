@@ -1,0 +1,16 @@
+{
+    "plugins": [
+        {
+            "files": [
+                {
+                    "source": "actions.json",
+                    "target": "{locale}.json"
+                },
+                {
+                    "source": "actions.php",
+                    "target": "{locale}/actions.php"
+                }
+            ]
+        }
+    ]
+}
