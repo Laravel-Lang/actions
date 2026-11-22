@@ -6,24 +6,27 @@
     "keywords": [
         "actions",
         "buttons",
+        "i18n",
         "lang",
-        "languages",
         "laravel",
         "translations"
     ],
     "authors": [
         {
             "name": "Andrey Helldar",
-            "email": "helldar@dragon-code.pro",
-            "homepage": "https://dragon-code.pro"
+            "email": "helldar@dragon-code.pro"
         },
         {
             "name": "Laravel Lang Team",
             "homepage": "https://laravel-lang.com"
         }
     ],
+    "homepage": "https://laravel-lang.com",
+    "support": {
+        "source": "https://github.com/Laravel-Lang/mona"
+    },
     "require": {
-        "require": "^8.3",
+        "php": "^8.3",
         "laravel-lang/publisher": "self.version"
     },
     "minimum-stability": "stable",
@@ -31,9 +34,5 @@
     "config": {
         "preferred-install": "dist",
         "sort-packages": true
-    },
-    "homepage": "https://laravel-lang.com",
-    "support": {
-        "source": "https://github.com/Laravel-Lang/mona"
     }
 }
