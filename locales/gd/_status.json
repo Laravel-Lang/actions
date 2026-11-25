@@ -1,0 +1,12 @@
+{
+    "json": {
+        "Detach": "Detach",
+        "Export :name": "Export :name",
+        "Impersonation": "Impersonation",
+        "Import": "Import",
+        "Like": "Like",
+        "Subscribe": "Subscribe",
+        "Tag": "Tag",
+        "Unpack": "Unpack"
+    }
+}

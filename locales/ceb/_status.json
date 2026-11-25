@@ -1,0 +1,23 @@
+{
+    "json": {
+        "Admin": "Admin",
+        "Archive": "Archive",
+        "Duplicate": "Duplicate",
+        "Edit": "Edit",
+        "Export": "Export",
+        "Export :name": "Export :name",
+        "Import": "Import",
+        "Import :name": "Import :name",
+        "Log Out": "Log Out",
+        "Preview": "Preview",
+        "Sign In": "Sign In",
+        "Tag": "Tag",
+        "Unpack": "Unpack",
+        "Update": "Update",
+        "Update :name": "Update :name"
+    },
+    "php": {
+        "file": "file",
+        "load": "load"
+    }
+}

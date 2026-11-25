@@ -1,0 +1,15 @@
+{
+    "json": {
+        "Admin": "Admin",
+        "Archive": "Archive",
+        "Associate": "Associate",
+        "Export :name": "Export :name",
+        "Log Out": "Log Out",
+        "Tag": "Tag",
+        "Update": "Update",
+        "Update :name": "Update :name"
+    },
+    "php": {
+        "file": "file"
+    }
+}
