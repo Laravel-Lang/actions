@@ -1,0 +1,17 @@
+{
+    "json": {
+        "Associate": "Associate",
+        "Attach": "Attach",
+        "Detach": "Detach",
+        "Edit :name": "Edit :name",
+        "Export :name": "Export :name",
+        "Import :name": "Import :name",
+        "Like": "Like",
+        "Load": "Load",
+        "New :name": "New :name",
+        "Show": "Show",
+        "Switch": "Switch",
+        "Unpack": "Unpack",
+        "Up": "Up"
+    }
+}

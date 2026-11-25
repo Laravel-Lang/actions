@@ -1,0 +1,10 @@
+{
+    "json": {
+        "Admin": "Admin",
+        "Edit :name": "Edit :name",
+        "Export :name": "Export :name",
+        "Import": "Import",
+        "Import :name": "Import :name",
+        "Tag": "Tag"
+    }
+}
